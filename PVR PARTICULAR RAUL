@@ -1,0 +1,1970 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://photos.fife.usercontent.google.com/pw/AP1GczOYqt0U-UeIfMtgoZVQxm74C2PaJw_IDDpbmONxdJhs6BhCh-4oTkLx=w391-h220-no?authuser=0" group-title="PIX/PARA CONTINUAR ATUALIZANDO 🙏", RM PLAY TV
+http://manoplus.ddns.net/mano.mp4
+
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 1 [HD]" tvg-logo="" group-title="Canais | Amazon Prime Video",Prime Video 1 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/208962.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 2 [HD]" tvg-logo="" group-title="Canais | Amazon Prime Video",Prime Video 2 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/208963.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 1 [SD]" tvg-logo="" group-title="Canais | Amazon Prime Video",Prime Video 1 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/208964.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 2 [SD]" tvg-logo="" group-title="Canais | Amazon Prime Video",Prime Video 2 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/208965.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 4 [SD]" tvg-logo="" group-title="Canais | Amazon Prime Video",Prime Video 4 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/208966.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 4 [HD]" tvg-logo="" group-title="Canais | Amazon Prime Video",Prime Video 4 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/208967.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 4 [FHD]" tvg-logo="" group-title="Canais | Amazon Prime Video",Prime Video 4 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/208968.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 3 [SD]" tvg-logo="" group-title="Canais | Amazon Prime Video",Prime Video 3 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/208969.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 3 [HD]" tvg-logo="" group-title="Canais | Amazon Prime Video",Prime Video 3 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/208970.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 3 [FHD]" tvg-logo="" group-title="Canais | Amazon Prime Video",Prime Video 3 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/208971.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 1 [FHD]" tvg-logo="" group-title="Canais | Amazon Prime Video",Prime Video 1 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/208972.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 2 [FHD]" tvg-logo="" group-title="Canais | Amazon Prime Video",Prime Video 2 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/208973.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 5 [FHD]" tvg-logo="" group-title="Canais | Amazon Prime Video",Prime Video 5 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/210171.ts
+#EXTINF:-1 tvg-id="Disney.cl" tvg-name="Disney Plus [HD] 1" tvg-logo="" group-title="Canais | Disney Plus",Disney Plus [HD] 1
+http://cdn33.cc:80/ribeirinho/gs1200/236857.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Plus [HD] 2" tvg-logo="" group-title="Canais | Disney Plus",Disney Plus [HD] 2
+http://cdn33.cc:80/ribeirinho/gs1200/236858.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Plus [HD] 3" tvg-logo="http://p6.vc/DGS9" group-title="Canais | Disney Plus",Disney Plus [HD] 3
+http://cdn33.cc:80/ribeirinho/gs1200/236859.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Plus [HD] 4" tvg-logo="" group-title="Canais | Disney Plus",Disney Plus [HD] 4
+http://cdn33.cc:80/ribeirinho/gs1200/236860.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Plus [HD] 5" tvg-logo="" group-title="Canais | Disney Plus",Disney Plus [HD] 5
+http://cdn33.cc:80/ribeirinho/gs1200/236861.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Plus [HD] 6" tvg-logo="" group-title="Canais | Disney Plus",Disney Plus [HD] 6
+http://cdn33.cc:80/ribeirinho/gs1200/236862.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 4 [FHD][HDR]" tvg-logo="http://p6.vc/WHW" group-title="Canais | SporTV",SporTV 4 [FHD][HDR]
+http://cdn33.cc:80/ribeirinho/gs1200/233619.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 [FHD][H265]" tvg-logo="http://p6.vc/WHW" group-title="Canais | SporTV",SPORTV 3 [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/233620.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 4 [FHD]" tvg-logo="http://p6.vc/WHW" group-title="Canais | SporTV",SporTV 4 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/233621.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 4 [HD]" tvg-logo="http://p6.vc/WHW" group-title="Canais | SporTV",SporTV 4 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/233622.ts
+#EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E [FHD]" tvg-logo="http://p6.vc/APQ" group-title="Canais | Filmes e Séries",A&E [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/293.ts
+#EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E [FHD][H265]" tvg-logo="http://p6.vc/WHI" group-title="Canais | Filmes e Séries",A&E [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30227.ts
+#EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E [HD]" tvg-logo="http://p6.vc/APV" group-title="Canais | Filmes e Séries",A&E [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/299.ts
+#EXTINF:-1 tvg-id="BR - A&E" tvg-name="A&E [SD]" tvg-logo="http://p6.vc/APV" group-title="Canais | Filmes e Séries",A&E [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/324.ts
+#EXTINF:-1 tvg-id="ADSM" tvg-name="ADULT SWIM [HD]" tvg-logo="http://p6.vc/ARX3" group-title="Canais | Filmes e Séries",ADULT SWIM [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/199850.ts
+#EXTINF:-1 tvg-id="ADSM" tvg-name="ADULT SWIM [SD]" tvg-logo="http://p6.vc/ARX2" group-title="Canais | Filmes e Séries",ADULT SWIM [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/199849.ts
+#EXTINF:-1 tvg-id="BR - Globo" tvg-name="AgroMais [FHD]" tvg-logo="http://p6.vc/VRH" group-title="Canais | Variedades",AgroMais [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/109512.ts
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC [FHD]" tvg-logo="http://p6.vc/WGS" group-title="Canais | Filmes e Séries",AMC [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/294.ts
+#EXTINF:-1 tvg-id="BR - AMC Brasil" tvg-name="AMC [FHD][H265]" tvg-logo="http://p6.vc/WHJ" group-title="Canais | Filmes e Séries",AMC [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30228.ts
+#EXTINF:-1 tvg-id="BR - AMC Brasil" tvg-name="AMC [HD]" tvg-logo="http://p6.vc/APW" group-title="Canais | Filmes e Séries",AMC [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/300.ts
+#EXTINF:-1 tvg-id="BR - AMC Brasil" tvg-name="AMC [SD]" tvg-logo="http://p6.vc/AQS" group-title="Canais | Filmes e Séries",AMC [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/325.ts
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet [4K]" tvg-logo="http://p6.vc/bb" group-title="Canais | 4K",Animal Planet [4K]
+http://cdn33.cc:80/ribeirinho/gs1200/588.ts
+#EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [FHD]" tvg-logo="http://p6.vc/AKY" group-title="Canais | Documentários",ANIMAL PLANET [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/164.ts
+#EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [FHD][H265]" tvg-logo="http://p6.vc/WHO" group-title="Canais | Documentários",ANIMAL PLANET [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30248.ts
+#EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [HD]" tvg-logo="http://p6.vc/ALM" group-title="Canais | Documentários",ANIMAL PLANET [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/179.ts
+#EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [SD]" tvg-logo="http://p6.vc/AMA" group-title="Canais | Documentários",ANIMAL PLANET [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/194.ts
+#EXTINF:-1 tvg-id="BR - Arte 1" tvg-name="ARTE 1 [FHD]" tvg-logo="http://p6.vc/AKZ" group-title="Canais | Documentários",ARTE 1 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/165.ts
+#EXTINF:-1 tvg-id="BR - Arte 1" tvg-name="ARTE 1 [FHD][H265]" tvg-logo="http://p6.vc/WHP" group-title="Canais | Documentários",ARTE 1 [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30249.ts
+#EXTINF:-1 tvg-id="BR - Arte 1" tvg-name="ARTE 1 [HD]" tvg-logo="http://p6.vc/ALN" group-title="Canais | Documentários",ARTE 1 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/180.ts
+#EXTINF:-1 tvg-id="BR - Arte 1" tvg-name="ARTE 1 [SD]" tvg-logo="http://p6.vc/AMB" group-title="Canais | Documentários",ARTE 1 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/195.ts
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN [4K]" tvg-logo="http://p6.vc/H" group-title="Canais | 4K",AXN [4K]
+http://cdn33.cc:80/ribeirinho/gs1200/50863.ts
+#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [FHD]" tvg-logo="http://p6.vc/APR" group-title="Canais | Filmes e Séries",AXN [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/295.ts
+#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [FHD] LEG" tvg-logo="http://p6.vc/WID" group-title="Canais | Legendados",AXN [FHD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/122939.ts
+#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [FHD][H265]" tvg-logo="http://p6.vc/WGX" group-title="Canais | Filmes e Séries",AXN [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30206.ts
+#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [HD]" tvg-logo="http://p6.vc/APX" group-title="Canais | Filmes e Séries",AXN [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/301.ts
+#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [HD] LEG" tvg-logo="http://p6.vc/WIB" group-title="Canais | Legendados",AXN [HD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/122933.ts
+#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [SD]" tvg-logo="http://p6.vc/AQT" group-title="Canais | Filmes e Séries",AXN [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/326.ts
+#EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [SD] LEG" tvg-logo="http://p6.vc/WIC" group-title="Canais | Legendados",AXN [SD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/122934.ts
+#EXTINF:-1 tvg-id="BR - Band News" tvg-name="BAND NEWS [FHD]" tvg-logo="http://p6.vc/AWW" group-title="Canais | Notícias",BAND NEWS [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/510.ts
+#EXTINF:-1 tvg-id="BR - Band News" tvg-name="BAND NEWS [FHD][H265]" tvg-logo="http://p6.vc/VNA" group-title="Canais | Notícias",BAND NEWS [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30195.ts
+#EXTINF:-1 tvg-id="BR - Band News" tvg-name="BAND NEWS [HD]" tvg-logo="http://p6.vc/AXA" group-title="Canais | Notícias",BAND NEWS [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/514.ts
+#EXTINF:-1 tvg-id="BR - Band News" tvg-name="BAND NEWS [SD]" tvg-logo="http://p6.vc/VMV" group-title="Canais | Notícias",BAND NEWS [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/520.ts
+#EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="Band SP [4K]" tvg-logo="http://p6.vc/AZH" group-title="Canais | 4K",Band SP [4K]
+http://cdn33.cc:80/ribeirinho/gs1200/580.ts
+#EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="BAND SP [FHD]" tvg-logo="http://p6.vc/VVH" group-title="Canais | Abertos",BAND SP [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/113585.ts
+#EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="BAND SP [HD]" tvg-logo="http://p6.vc/VVG" group-title="Canais | Abertos",BAND SP [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/113584.ts
+#EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="BAND SP [SD]" tvg-logo="http://p6.vc/VVF" group-title="Canais | Abertos",BAND SP [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/113583.ts
+#EXTINF:-1 tvg-id="Bandsports HD" tvg-name="BAND SPORT [FHD]" tvg-logo="http://p6.vc/ANX" group-title="Canais | Esportes",BAND SPORT [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/247.ts
+#EXTINF:-1 tvg-id="Bandsports HD" tvg-name="BAND SPORTS [FHD][H265]" tvg-logo="http://p6.vc/VSW" group-title="Canais | Esportes",BAND SPORTS [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30275.ts
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="BAND SPORTS [HD]" tvg-logo="http://p6.vc/AOG" group-title="Canais | Esportes",BAND SPORTS [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/256.ts
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="BAND SPORTS [SD]" tvg-logo="http://p6.vc/AOO" group-title="Canais | Esportes",BAND SPORTS [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/265.ts
+#EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="BAND [FHD][H265]" tvg-logo="http://p6.vc/VVK" group-title="Canais | Abertos",BAND [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/113588.ts
+#EXTINF:-1 tvg-id="BR - BIS HD" tvg-name="BIS [FHD]" tvg-logo="http://p6.vc/ONP" group-title="Canais | Art & Music",BIS [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/5.ts
+#EXTINF:-1 tvg-id="BR - BIS HD" tvg-name="BIS [FHD][H265]" tvg-logo="http://p6.vc/ONR" group-title="Canais | Art & Music",BIS [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30177.ts
+#EXTINF:-1 tvg-id="BR - BIS HD" tvg-name="BIS [HD]" tvg-logo="http://p6.vc/AFQ" group-title="Canais | Art & Music",BIS [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/18.ts
+#EXTINF:-1 tvg-id="BR - BIS HD" tvg-name="BIS [SD]" tvg-logo="http://p6.vc/AFL" group-title="Canais | Art & Music",BIS [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/12.ts
+#EXTINF:-1 tvg-id="BR - Canal Brasil" tvg-name="CANAL BRASIL [FHD]" tvg-logo="http://p6.vc/APU" group-title="Canais | Filmes e Séries",CANAL BRASIL [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/298.ts
+#EXTINF:-1 tvg-id="BR - Canal Brasil" tvg-name="CANAL BRASIL [FHD][H265]" tvg-logo="http://p6.vc/WHL" group-title="Canais | Filmes e Séries",CANAL BRASIL [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30233.ts
+#EXTINF:-1 tvg-id="BR - Canal Brasil" tvg-name="CANAL BRASIL [HD]" tvg-logo="http://p6.vc/AQP" group-title="Canais | Filmes e Séries",CANAL BRASIL [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/322.ts
+#EXTINF:-1 tvg-id="BR - Canal Brasil" tvg-name="CANAL BRASIL [SD]" tvg-logo="http://p6.vc/ARP" group-title="Canais | Filmes e Séries",CANAL BRASIL [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/349.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI [HD]" tvg-logo="http://p6.vc/AIA" group-title="Canais | Abertos",CANAL DO BOI [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/199615.ts
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI [SD]" tvg-logo="http://p6.vc/AIA" group-title="Canais | Abertos",CANAL DO BOI [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/83.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Do Volei 01 [HD]" tvg-logo="http://p6.vc/VME" group-title="Canais | Jogos & Eventos",Canal Do Volei 01 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/116353.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Do Volei 02 [HD]" tvg-logo="http://p6.vc/VMD" group-title="Canais | Jogos & Eventos",Canal Do Volei 02 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/116352.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Do Volei 03 [HD]" tvg-logo="http://p6.vc/VMC" group-title="Canais | Jogos & Eventos",Canal Do Volei 03 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/116351.ts
+#EXTINF:-1 tvg-id="BR - Canção Nova" tvg-name="CANCAO NOVA [HD]" tvg-logo="http://p6.vc/VPV" group-title="Canais | Religiosos",CANCAO NOVA [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/33379.ts
+#EXTINF:-1 tvg-id="BR - Canção Nova" tvg-name="CANCAO NOVA [SD]" tvg-logo="http://p6.vc/AYG" group-title="Canais | Religiosos",CANCAO NOVA [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/552.ts
+#EXTINF:-1 tvg-id="BR - Cartoon Network" tvg-name="Cartoon Network [4K]" tvg-logo="http://p6.vc/bc" group-title="Canais | 4K",Cartoon Network [4K]
+http://cdn33.cc:80/ribeirinho/gs1200/591.ts
+#EXTINF:-1 tvg-id="BR - Cartoon Network" tvg-name="CARTOON NETWORK [FHD]" tvg-logo="http://p6.vc/AJP" group-title="Canais | Infantis",CARTOON NETWORK [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/126.ts
+#EXTINF:-1 tvg-id="BR - Cartoon Network" tvg-name="CARTOON NETWORK [FHD][H265]" tvg-logo="http://p6.vc/WHT" group-title="Canais | Infantis",CARTOON NETWORK [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30268.ts
+#EXTINF:-1 tvg-id="BR - Cartoon Network" tvg-name="CARTOON NETWORK [HD]" tvg-logo="http://p6.vc/AKC" group-title="Canais | Infantis",CARTOON NETWORK [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/139.ts
+#EXTINF:-1 tvg-id="BR - Cartoon Network" tvg-name="CARTOON NETWORK [SD]" tvg-logo="http://p6.vc/AKM" group-title="Canais | Infantis",CARTOON NETWORK [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/151.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAZE TV [HD]" tvg-logo="http://p6.vc/VMB" group-title="Canais | Jogos & Eventos",CAZE TV [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/134082.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAZE TV [SD]" tvg-logo="http://p6.vc/VMB" group-title="Canais | Jogos & Eventos",CAZE TV [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/134083.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 [FHD]" tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes Selecionados",CINE SKY 01 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/50858.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 [HD]" tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes Selecionados",CINE SKY 01 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/50838.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06 [FHD]" tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes Selecionados",CINE SKY 06 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/50862.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06 [HD]" tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes Selecionados",CINE SKY 06 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/50843.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 14 [HD]" tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes Selecionados",CINE SKY 14 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/50851.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 15 [HD]" tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes Selecionados",CINE SKY 15 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/50852.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 16 [HD]" tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes Selecionados",CINE SKY 16 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/50853.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 17 [HD]" tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes Selecionados",CINE SKY 17 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/50854.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 18 [HD]" tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes Selecionados",CINE SKY 18 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/50855.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 19 [HD]" tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes Selecionados",CINE SKY 19 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/50856.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 20 [FHD]" tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes Selecionados",CINE SKY 20 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/50859.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 20 [HD]" tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes Selecionados",CINE SKY 20 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/50857.ts
+#EXTINF:-1 tvg-id="Cinecanal.br" tvg-name="CINECANAL [HD]" tvg-logo="http://p6.vc/XTL" group-title="Canais | Filmes e Séries",CINECANAL [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/132946.ts
+#EXTINF:-1 tvg-id="Cinecanal.br" tvg-name="CINECANAL [SD]" tvg-logo="http://p6.vc/XTN" group-title="Canais | Filmes e Séries",CINECANAL [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/132948.ts
+#EXTINF:-1 tvg-id="BR - Cinemax" tvg-name="CINEMAX [FHD]" tvg-logo="http://p6.vc/AOY" group-title="Canais | Filmes e Séries",CINEMAX [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/275.ts
+#EXTINF:-1 tvg-id="BR - Cinemax" tvg-name="CINEMAX [FHD][H265]" tvg-logo="http://p6.vc/WHB" group-title="Canais | Filmes e Séries",CINEMAX [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30215.ts
+#EXTINF:-1 tvg-id="BR - Cinemax" tvg-name="CINEMAX [HD]" tvg-logo="http://p6.vc/APZ" group-title="Canais | Filmes e Séries",CINEMAX [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/303.ts
+#EXTINF:-1 tvg-id="BR - Cinemax" tvg-name="CINEMAX [SD]" tvg-logo="http://p6.vc/AQV" group-title="Canais | Filmes e Séries",CINEMAX [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/328.ts
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil [4K]" tvg-logo="http://p6.vc/VNG" group-title="Canais | 4K",CNN Brasil [4K]
+http://cdn33.cc:80/ribeirinho/gs1200/50865.ts
+#EXTINF:-1 tvg-id="BR - CNN" tvg-name="CNN BRASIL [FHD]" tvg-logo="http://p6.vc/AWZ" group-title="Canais | Notícias",CNN BRASIL [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/513.ts
+#EXTINF:-1 tvg-id="BR - CNN" tvg-name="CNN BRASIL [FHD][H265]" tvg-logo="http://p6.vc/VND" group-title="Canais | Notícias",CNN BRASIL [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30198.ts
+#EXTINF:-1 tvg-id="BR - CNN" tvg-name="CNN BRASIL [HD]" tvg-logo="http://p6.vc/AXC" group-title="Canais | Notícias",CNN BRASIL [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/517.ts
+#EXTINF:-1 tvg-id="BR - CNN" tvg-name="CNN BRASIL [SD]" tvg-logo="http://p6.vc/AXH" group-title="Canais | Notícias",CNN BRASIL [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/523.ts
+#EXTINF:-1 tvg-id="BR - CNN" tvg-name="CNN INTERNACIONAL [HD]" tvg-logo="http://p6.vc/VNS" group-title="Canais | Notícias",CNN INTERNACIONAL [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/69087.ts
+#EXTINF:-1 tvg-id="São Paulo/SP  Combate" tvg-name="COMBATE [FHD]" tvg-logo="http://p6.vc/ANZ" group-title="Canais | Esportes",COMBATE [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/249.ts
+#EXTINF:-1 tvg-id="São Paulo/SP  Combate" tvg-name="COMBATE [FHD][H265]" tvg-logo="http://p6.vc/WJZ" group-title="Canais | Esportes",COMBATE [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30276.ts
+#EXTINF:-1 tvg-id="São Paulo/SP  Combate" tvg-name="COMBATE [HD]" tvg-logo="http://p6.vc/AOH" group-title="Canais | Esportes",COMBATE [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/257.ts
+#EXTINF:-1 tvg-id="São Paulo/SP  Combate" tvg-name="COMBATE [SD]" tvg-logo="http://p6.vc/AOP" group-title="Canais | Esportes",COMBATE [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/266.ts
+#EXTINF:-1 tvg-id="BR - Comedy Central HD" tvg-name="Comedy Central [4K]" tvg-logo="http://p6.vc/VRE" group-title="Canais | 4K",Comedy Central [4K]
+http://cdn33.cc:80/ribeirinho/gs1200/50868.ts
+#EXTINF:-1 tvg-id="BR - Comedy Central" tvg-name="COMEDY CENTRAL [FHD]" tvg-logo="http://p6.vc/AIO" group-title="Canais | Variedades",COMEDY CENTRAL [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/97.ts
+#EXTINF:-1 tvg-id="BR - Comedy Central" tvg-name="COMEDY CENTRAL [FHD][H265]" tvg-logo="http://p6.vc/VRA" group-title="Canais | Variedades",COMEDY CENTRAL [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30191.ts
+#EXTINF:-1 tvg-id="BR - Comedy Central" tvg-name="COMEDY CENTRAL [HD]" tvg-logo="http://p6.vc/AIV" group-title="Canais | Variedades",COMEDY CENTRAL [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/106.ts
+#EXTINF:-1 tvg-id="BR - Comedy Central" tvg-name="COMEDY CENTRAL [SD]" tvg-logo="http://p6.vc/AJE" group-title="Canais | Variedades",COMEDY CENTRAL [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/115.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 01 [HD] [D]" tvg-logo="http://p6.vc/VKV" group-title="Canais | Conmebol",CONMEBOL TV 01 [HD] [D]
+http://cdn33.cc:80/ribeirinho/gs1200/65585.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 02 [HD] [D]" tvg-logo="http://p6.vc/VKW" group-title="Canais | Conmebol",CONMEBOL TV 02 [HD] [D]
+http://cdn33.cc:80/ribeirinho/gs1200/65586.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 03 [HD] [D]" tvg-logo="http://p6.vc/VKX" group-title="Canais | Conmebol",CONMEBOL TV 03 [HD] [D]
+http://cdn33.cc:80/ribeirinho/gs1200/65587.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 [FHD] [C]" tvg-logo="http://p6.vc/VKJ" group-title="Canais | Conmebol",CONMEBOL TV 1 [FHD] [C]
+http://cdn33.cc:80/ribeirinho/gs1200/65573.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 [HD] [A]" tvg-logo="http://p6.vc/VJX" group-title="Canais | Conmebol",CONMEBOL TV 1 [HD] [A]
+http://cdn33.cc:80/ribeirinho/gs1200/65561.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 [HD] [C]" tvg-logo="http://p6.vc/VKN" group-title="Canais | Conmebol",CONMEBOL TV 1 [HD] [C]
+http://cdn33.cc:80/ribeirinho/gs1200/65577.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 [SD] [C]" tvg-logo="http://p6.vc/VKR" group-title="Canais | Conmebol",CONMEBOL TV 1 [SD] [C]
+http://cdn33.cc:80/ribeirinho/gs1200/65581.ts
+#EXTINF:-1 tvg-id="ConmebolTV2.br" tvg-name="CONMEBOL TV 2 [FHD] [C]" tvg-logo="http://p6.vc/VKK" group-title="Canais | Conmebol",CONMEBOL TV 2 [FHD] [C]
+http://cdn33.cc:80/ribeirinho/gs1200/65574.ts
+#EXTINF:-1 tvg-id="ConmebolTV2.br" tvg-name="CONMEBOL TV 2 [HD] [A]" tvg-logo="http://p6.vc/VJY" group-title="Canais | Conmebol",CONMEBOL TV 2 [HD] [A]
+http://cdn33.cc:80/ribeirinho/gs1200/65562.ts
+#EXTINF:-1 tvg-id="ConmebolTV2.br" tvg-name="CONMEBOL TV 2 [HD] [C]" tvg-logo="http://p6.vc/VKO" group-title="Canais | Conmebol",CONMEBOL TV 2 [HD] [C]
+http://cdn33.cc:80/ribeirinho/gs1200/65578.ts
+#EXTINF:-1 tvg-id="ConmebolTV2.br" tvg-name="CONMEBOL TV 2 [SD] [C]" tvg-logo="http://p6.vc/VKS" group-title="Canais | Conmebol",CONMEBOL TV 2 [SD] [C]
+http://cdn33.cc:80/ribeirinho/gs1200/65582.ts
+#EXTINF:-1 tvg-id="ConmebolTV3.br" tvg-name="CONMEBOL TV 3 [FHD] [C]" tvg-logo="http://p6.vc/VKL" group-title="Canais | Conmebol",CONMEBOL TV 3 [FHD] [C]
+http://cdn33.cc:80/ribeirinho/gs1200/65575.ts
+#EXTINF:-1 tvg-id="ConmebolTV3.br" tvg-name="CONMEBOL TV 3 [HD] [A]" tvg-logo="http://p6.vc/VJZ" group-title="Canais | Conmebol",CONMEBOL TV 3 [HD] [A]
+http://cdn33.cc:80/ribeirinho/gs1200/65563.ts
+#EXTINF:-1 tvg-id="ConmebolTV3.br" tvg-name="CONMEBOL TV 3 [HD] [C]" tvg-logo="http://p6.vc/VKP" group-title="Canais | Conmebol",CONMEBOL TV 3 [HD] [C]
+http://cdn33.cc:80/ribeirinho/gs1200/65579.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 [SD] [C]" tvg-logo="http://p6.vc/VKT" group-title="Canais | Conmebol",CONMEBOL TV 3 [SD] [C]
+http://cdn33.cc:80/ribeirinho/gs1200/65583.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 [FHD] [C]" tvg-logo="http://p6.vc/VKM" group-title="Canais | Conmebol",CONMEBOL TV 4 [FHD] [C]
+http://cdn33.cc:80/ribeirinho/gs1200/65576.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 [HD] [A]" tvg-logo="http://p6.vc/VKA" group-title="Canais | Conmebol",CONMEBOL TV 4 [HD] [A]
+http://cdn33.cc:80/ribeirinho/gs1200/65564.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 [HD] [C]" tvg-logo="http://p6.vc/VKQ" group-title="Canais | Conmebol",CONMEBOL TV 4 [HD] [C]
+http://cdn33.cc:80/ribeirinho/gs1200/65580.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 [HD] [D]" tvg-logo="http://p6.vc/VKY" group-title="Canais | Conmebol",CONMEBOL TV 4 [HD] [D]
+http://cdn33.cc:80/ribeirinho/gs1200/65588.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 [HD][C]" tvg-logo="http://p6.vc/VLN" group-title="Canais | Conmebol",CONMEBOL TV 4 [HD][C]
+http://cdn33.cc:80/ribeirinho/gs1200/113956.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 [SD] [C]" tvg-logo="http://p6.vc/VKU" group-title="Canais | Conmebol",CONMEBOL TV 4 [SD] [C]
+http://cdn33.cc:80/ribeirinho/gs1200/65584.ts
+#EXTINF:-1 tvg-id="" tvg-name="COPA LIBERTADORES [HD]" tvg-logo="http://p6.vc/AWC" group-title="Canais | Campeonatos Estaduais",COPA LIBERTADORES [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/490.ts
+#EXTINF:-1 tvg-id="BR - Curta!" tvg-name="CURTA! [FHD]" tvg-logo="http://p6.vc/AIP" group-title="Canais | Variedades",CURTA! [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/98.ts
+#EXTINF:-1 tvg-id="BR - Curta!" tvg-name="CURTA! [FHD][H265]" tvg-logo="http://p6.vc/VRB" group-title="Canais | Variedades",CURTA! [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30192.ts
+#EXTINF:-1 tvg-id="BR - Curta!" tvg-name="CURTA! [HD]" tvg-logo="http://p6.vc/AIW" group-title="Canais | Variedades",CURTA! [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/107.ts
+#EXTINF:-1 tvg-id="BR - Curta!" tvg-name="CURTA! [SD]" tvg-logo="http://p6.vc/AJF" group-title="Canais | Variedades",CURTA! [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/116.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 [HD]" tvg-logo="http://p6.vc/XQJ" group-title="Canais | DAZN",DAZN 1 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/132316.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 [HD] [ALTER]" tvg-logo="http://p6.vc/XQV" group-title="Canais | DAZN",DAZN 1 [HD] [ALTER]
+http://cdn33.cc:80/ribeirinho/gs1200/132328.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 01 [FHD] [ALTER 2]" tvg-logo="http://p6.vc/XQU" group-title="Canais | DAZN",DAZN 01 [FHD] [ALTER 2]
+http://cdn33.cc:80/ribeirinho/gs1200/132327.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 01 [HD] [ALTER 2]" tvg-logo="http://p6.vc/XQT" group-title="Canais | DAZN",DAZN 01 [HD] [ALTER 2]
+http://cdn33.cc:80/ribeirinho/gs1200/132326.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 01 [SD] [ALTER 2]" tvg-logo="http://p6.vc/XQS" group-title="Canais | DAZN",DAZN 01 [SD] [ALTER 2]
+http://cdn33.cc:80/ribeirinho/gs1200/132325.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 [HD]" tvg-logo="http://p6.vc/XQK" group-title="Canais | DAZN",DAZN 2 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/132317.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 [HD] [ALTER]" tvg-logo="http://p6.vc/XQW" group-title="Canais | DAZN",DAZN 2 [HD] [ALTER]
+http://cdn33.cc:80/ribeirinho/gs1200/132329.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 02 [FHD] [ALTER 2]" tvg-logo="http://p6.vc/XQR" group-title="Canais | DAZN",DAZN 02 [FHD] [ALTER 2]
+http://cdn33.cc:80/ribeirinho/gs1200/132324.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 02 [HD] [ALTER 2]" tvg-logo="http://p6.vc/XQQ" group-title="Canais | DAZN",DAZN 02 [HD] [ALTER 2]
+http://cdn33.cc:80/ribeirinho/gs1200/132323.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 02 [SD] [ALTER 2]" tvg-logo="http://p6.vc/XQP" group-title="Canais | DAZN",DAZN 02 [SD] [ALTER 2]
+http://cdn33.cc:80/ribeirinho/gs1200/132322.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 [HD]" tvg-logo="http://p6.vc/XQL" group-title="Canais | DAZN",DAZN 3 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/132318.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 [HD] [ALTER]" tvg-logo="http://p6.vc/XQX" group-title="Canais | DAZN",DAZN 3 [HD] [ALTER]
+http://cdn33.cc:80/ribeirinho/gs1200/132330.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 [HD]" tvg-logo="http://p6.vc/XQM" group-title="Canais | DAZN",DAZN 4 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/132319.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 [HD] [ALTER]" tvg-logo="http://p6.vc/XQY" group-title="Canais | DAZN",DAZN 4 [HD] [ALTER]
+http://cdn33.cc:80/ribeirinho/gs1200/132331.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 [HD]" tvg-logo="http://p6.vc/XQN" group-title="Canais | DAZN",DAZN 5 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/132320.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 6 [HD]" tvg-logo="http://p6.vc/XQO" group-title="Canais | DAZN",DAZN 6 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/132321.ts
+#EXTINF:-1 tvg-id="BR - Discovery" tvg-name="Discovery Channel [4K]" tvg-logo="http://p6.vc/9" group-title="Canais | 4K",Discovery Channel [4K]
+http://cdn33.cc:80/ribeirinho/gs1200/585.ts
+#EXTINF:-1 tvg-id="BR - Discovery" tvg-name="DISCOVERY CHANNEL [FHD]" tvg-logo="http://p6.vc/WJK" group-title="Canais | Documentários",DISCOVERY CHANNEL [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/166.ts
+#EXTINF:-1 tvg-id="BR - Discovery" tvg-name="DISCOVERY CHANNEL [FHD][H265]" tvg-logo="http://p6.vc/WJX" group-title="Canais | Documentários",DISCOVERY CHANNEL [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30260.ts
+#EXTINF:-1 tvg-id="BR - Discovery" tvg-name="DISCOVERY CHANNEL [HD]" tvg-logo="http://p6.vc/WJK" group-title="Canais | Documentários",DISCOVERY CHANNEL [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/181.ts
+#EXTINF:-1 tvg-id="BR - Discovery" tvg-name="DISCOVERY CHANNEL [SD]" tvg-logo="http://p6.vc/WJK" group-title="Canais | Documentários",DISCOVERY CHANNEL [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/196.ts
+#EXTINF:-1 tvg-id="BR - Discovery Home & Health" tvg-name="DISCOVERY HOME & HEALTH [FHD]" tvg-logo="http://p6.vc/ALC" group-title="Canais | Documentários",DISCOVERY HOME & HEALTH [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/168.ts
+#EXTINF:-1 tvg-id="BR - Discovery Home & Health" tvg-name="DISCOVERY HOME & HEALTH [HD]" tvg-logo="http://p6.vc/VYU" group-title="Canais | Documentários",DISCOVERY HOME & HEALTH [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/183.ts
+#EXTINF:-1 tvg-id="BR - Discovery Home & Health" tvg-name="DISCOVERY HOME & HEALTH [SD]" tvg-logo="http://p6.vc/AMD" group-title="Canais | Documentários",DISCOVERY HOME & HEALTH [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/198.ts
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home&Health [4K]" tvg-logo="" group-title="Canais | 4K",Discovery Home&Health [4K]
+http://cdn33.cc:80/ribeirinho/gs1200/50866.ts
+#EXTINF:-1 tvg-id="BR - Discovery Home & Health" tvg-name="DISCOVERY HOME&HEALTH [FHD][H265]" tvg-logo="http://p6.vc/VYV" group-title="Canais | Documentários",DISCOVERY HOME&HEALTH [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30254.ts
+#EXTINF:-1 tvg-id="BR - Discovery Kids" tvg-name="DISCOVERY KIDS [FHD]" tvg-logo="http://p6.vc/AJQ" group-title="Canais | Infantis",DISCOVERY KIDS [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/127.ts
+#EXTINF:-1 tvg-id="BR - Discovery Kids" tvg-name="Discovery Kids [H265]" tvg-logo="http://p6.vc/WHU" group-title="Canais | Infantis",Discovery Kids [H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30269.ts
+#EXTINF:-1 tvg-id="BR - Discovery Kids" tvg-name="DISCOVERY KIDS [HD]" tvg-logo="http://p6.vc/AKD" group-title="Canais | Infantis",DISCOVERY KIDS [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/140.ts
+#EXTINF:-1 tvg-id="BR - Discovery Kids" tvg-name="DISCOVERY KIDS [SD]" tvg-logo="http://p6.vc/AKN" group-title="Canais | Infantis",DISCOVERY KIDS [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/152.ts
+#EXTINF:-1 tvg-id="BR - Discovery Science" tvg-name="DISCOVERY SCIENCE [FHD]" tvg-logo="http://p6.vc/WJU" group-title="Canais | Documentários",DISCOVERY SCIENCE [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/169.ts
+#EXTINF:-1 tvg-id="BR - Discovery Science" tvg-name="DISCOVERY SCIENCE [FHD][H265]" tvg-logo="http://p6.vc/WJU" group-title="Canais | Documentários",DISCOVERY SCIENCE [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30255.ts
+#EXTINF:-1 tvg-id="BR - Discovery Science" tvg-name="DISCOVERY SCIENCE [HD]" tvg-logo="http://p6.vc/WJU" group-title="Canais | Documentários",DISCOVERY SCIENCE [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/184.ts
+#EXTINF:-1 tvg-id="BR - Discovery Science" tvg-name="DISCOVERY SCIENCE [SD]" tvg-logo="http://p6.vc/WJU" group-title="Canais | Documentários",DISCOVERY SCIENCE [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/199.ts
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="DISCOVERY THEATER [FHD]" tvg-logo="http://p6.vc/ALE" group-title="Canais | Documentários",DISCOVERY THEATER [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/170.ts
+#EXTINF:-1 tvg-id="BR - Discovery HD Theater" tvg-name="DISCOVERY THEATER [FHD][H265]" tvg-logo="http://p6.vc/WHR" group-title="Canais | Documentários",DISCOVERY THEATER [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30256.ts
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="DISCOVERY THEATER [HD]" tvg-logo="http://p6.vc/ALR" group-title="Canais | Documentários",DISCOVERY THEATER [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/185.ts
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="DISCOVERY THEATER [SD]" tvg-logo="http://p6.vc/AMF" group-title="Canais | Documentários",DISCOVERY THEATER [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/200.ts
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="Discovery Turbo [4K]" tvg-logo="http://p6.vc/WJV" group-title="Canais | 4K",Discovery Turbo [4K]
+http://cdn33.cc:80/ribeirinho/gs1200/50869.ts
+#EXTINF:-1 tvg-id="BR - Discovery Turbo" tvg-name="DISCOVERY TURBO [FHD]" tvg-logo="http://p6.vc/WJV" group-title="Canais | Documentários",DISCOVERY TURBO [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/171.ts
+#EXTINF:-1 tvg-id="BR - Discovery Turbo" tvg-name="DISCOVERY TURBO [FHD][H265]" tvg-logo="http://p6.vc/WJV" group-title="Canais | Documentários",DISCOVERY TURBO [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30257.ts
+#EXTINF:-1 tvg-id="BR - Discovery Turbo" tvg-name="DISCOVERY TURBO [HD]" tvg-logo="http://p6.vc/WJV" group-title="Canais | Documentários",DISCOVERY TURBO [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/186.ts
+#EXTINF:-1 tvg-id="BR - Discovery Turbo" tvg-name="DISCOVERY TURBO [SD]" tvg-logo="http://p6.vc/WJV" group-title="Canais | Documentários",DISCOVERY TURBO [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/201.ts
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="DISCOVERY WORLD [FHD]" tvg-logo="http://p6.vc/ALG" group-title="Canais | Documentários",DISCOVERY WORLD [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/172.ts
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="DISCOVERY WORLD [FHD][H265]" tvg-logo="http://p6.vc/VYW" group-title="Canais | Documentários",DISCOVERY WORLD [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30258.ts
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="DISCOVERY WORLD [HD]" tvg-logo="http://p6.vc/ALT" group-title="Canais | Documentários",DISCOVERY WORLD [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/187.ts
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="DISCOVERY WORLD [SD]" tvg-logo="http://p6.vc/AMH" group-title="Canais | Documentários",DISCOVERY WORLD [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/202.ts
+#EXTINF:-1 tvg-id="BR - Disney" tvg-name="DISNEY CHANNEL [FHD]" tvg-logo="http://p6.vc/AJY" group-title="Canais | Infantis",DISNEY CHANNEL [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/135.ts
+#EXTINF:-1 tvg-id="BR - Disney" tvg-name="DISNEY CHANNEL [FHD][H265]" tvg-logo="http://p6.vc/WJC" group-title="Canais | Infantis",DISNEY CHANNEL [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30270.ts
+#EXTINF:-1 tvg-id="BR - Disney" tvg-name="DISNEY CHANNEL [HD]" tvg-logo="http://p6.vc/WIV" group-title="Canais | Infantis",DISNEY CHANNEL [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/141.ts
+#EXTINF:-1 tvg-id="BR - Disney" tvg-name="DISNEY CHANNEL [SD]" tvg-logo="http://p6.vc/AKO" group-title="Canais | Infantis",DISNEY CHANNEL [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/153.ts
+#EXTINF:-1 tvg-id="BR - DOGTV" tvg-name="DOG TV [FHD]" tvg-logo="http://p6.vc/VRD" group-title="Canais | Variedades",DOG TV [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/32426.ts
+#EXTINF:-1 tvg-id="BR - DOGTV" tvg-name="DOG TV [HD]" tvg-logo="http://p6.vc/VRC" group-title="Canais | Variedades",DOG TV [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/32425.ts
+#EXTINF:-1 tvg-id="BR - E!" tvg-name="E! [FHD]" tvg-logo="http://p6.vc/AIQ" group-title="Canais | Variedades",E! [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/99.ts
+#EXTINF:-1 tvg-id="BR - E!" tvg-name="E! [FHD][H265]" tvg-logo="http://p6.vc/VQZ" group-title="Canais | Variedades",E! [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30186.ts
+#EXTINF:-1 tvg-id="BR - E!" tvg-name="E! [HD]" tvg-logo="http://p6.vc/AIX" group-title="Canais | Variedades",E! [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/108.ts
+#EXTINF:-1 tvg-id="BR - E!" tvg-name="E! [SD]" tvg-logo="http://p6.vc/AJG" group-title="Canais | Variedades",E! [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/117.ts
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2 [FHD]" tvg-logo="http://p6.vc/AOB" group-title="Canais | Esportes",ESPN 2 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/251.ts
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2 [FHD][H265]" tvg-logo="http://p6.vc/WKE" group-title="Canais | Esportes",ESPN 2 [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30281.ts
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2 [HD]" tvg-logo="http://p6.vc/AOL" group-title="Canais | Esportes",ESPN 2 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/261.ts
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 [SD]" tvg-logo="http://p6.vc/AOQ" group-title="Canais | Esportes",ESPN 2 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/267.ts
+#EXTINF:-1 tvg-id="ESPN.3.br" tvg-name="ESPN 3 [FHD]" tvg-logo="http://p6.vc/AOE" group-title="Canais | Esportes",ESPN 3 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/254.ts
+#EXTINF:-1 tvg-id="ESPN.3.br" tvg-name="ESPN 3 [FHD][H265]" tvg-logo="http://p6.vc/WKA" group-title="Canais | Esportes",ESPN 3 [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30277.ts
+#EXTINF:-1 tvg-id="ESPN.3.br" tvg-name="ESPN 3 [HD]" tvg-logo="http://p6.vc/AOI" group-title="Canais | Esportes",ESPN 3 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/258.ts
+#EXTINF:-1 tvg-id="ESPN.3.br" tvg-name="ESPN 3 [SD]" tvg-logo="http://p6.vc/AOR" group-title="Canais | Esportes",ESPN 3 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/268.ts
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="ESPN 4 [4K]" tvg-logo="http://p6.vc/ba" group-title="Canais | 4K",ESPN 4 [4K]
+http://cdn33.cc:80/ribeirinho/gs1200/586.ts
+#EXTINF:-1 tvg-id="ESPN.4.br" tvg-name="ESPN 4 [FHD]" tvg-logo="http://p6.vc/AOF" group-title="Canais | Esportes",ESPN 4 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/255.ts
+#EXTINF:-1 tvg-id="ESPN.4.br" tvg-name="ESPN 4 [FHD][H265]" tvg-logo="http://p6.vc/WKG" group-title="Canais | Esportes",ESPN 4 [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30283.ts
+#EXTINF:-1 tvg-id="ESPN.4.br" tvg-name="ESPN 4 [HD]" tvg-logo="http://p6.vc/AOM" group-title="Canais | Esportes",ESPN 4 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/262.ts
+#EXTINF:-1 tvg-id="ESPN.4.br" tvg-name="ESPN 4 [SD]" tvg-logo="http://p6.vc/AOU" group-title="Canais | Esportes",ESPN 4 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/271.ts
+#EXTINF:-1 tvg-id="ESPN.Extra.br" tvg-name="ESPN EXTRA [FHD]" tvg-logo="http://p6.vc/ANY" group-title="Canais | Esportes",ESPN EXTRA [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/248.ts
+#EXTINF:-1 tvg-id="ESPN.Extra.br" tvg-name="ESPN EXTRA [FHD][H265]" tvg-logo="http://p6.vc/WKB" group-title="Canais | Esportes",ESPN EXTRA [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30278.ts
+#EXTINF:-1 tvg-id="ESPN.Extra.br" tvg-name="ESPN EXTRA [HD]" tvg-logo="http://p6.vc/AOK" group-title="Canais | Esportes",ESPN EXTRA [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/260.ts
+#EXTINF:-1 tvg-id="ESPN.Extra.br" tvg-name="ESPN EXTRA [SD]" tvg-logo="http://p6.vc/AOT" group-title="Canais | Esportes",ESPN EXTRA [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/270.ts
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="ESPN [4K]" tvg-logo="" group-title="Canais | 4K",ESPN [4K]
+http://cdn33.cc:80/ribeirinho/gs1200/50872.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN [4K]" tvg-logo="http://p6.vc/S" group-title="Canais | 4K",ESPN [4K]
+http://cdn33.cc:80/ribeirinho/gs1200/595.ts
+#EXTINF:-1 tvg-id="BR - ESPN Brasil" tvg-name="ESPN [FHD]" tvg-logo="http://p6.vc/AOA" group-title="Canais | Esportes",ESPN [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/250.ts
+#EXTINF:-1 tvg-id="BR - ESPN Brasil" tvg-name="ESPN [FHD][H265]" tvg-logo="http://p6.vc/WKD" group-title="Canais | Esportes",ESPN [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30280.ts
+#EXTINF:-1 tvg-id="BR - ESPN Brasil" tvg-name="ESPN [HD]" tvg-logo="http://p6.vc/AOJ" group-title="Canais | Esportes",ESPN [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/259.ts
+#EXTINF:-1 tvg-id="BR - ESPN Brasil" tvg-name="ESPN [SD]" tvg-logo="http://p6.vc/AOS" group-title="Canais | Esportes",ESPN [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/269.ts
+#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 01" tvg-logo="http://p6.vc/AWH" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 01
+http://cdn33.cc:80/ribeirinho/gs1200/495.ts
+#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 01 [ALTER2]" tvg-logo="http://p6.vc/VOU" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 01 [ALTER2]
+http://cdn33.cc:80/ribeirinho/gs1200/93947.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 01 [HD]" tvg-logo="http://p6.vc/VON" group-title="Canais | Jogos & Eventos",ESTADIO TNT SPORTS 01 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/63125.ts
+#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 01[ALTER]" tvg-logo="http://p6.vc/VOC" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 01[ALTER]
+http://cdn33.cc:80/ribeirinho/gs1200/35081.ts
+#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 02" tvg-logo="http://p6.vc/VOO" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 02
+http://cdn33.cc:80/ribeirinho/gs1200/63126.ts
+#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 02 [ALTER2]" tvg-logo="http://p6.vc/VOV" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 02 [ALTER2]
+http://cdn33.cc:80/ribeirinho/gs1200/93948.ts
+#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 02[ALTER]" tvg-logo="http://p6.vc/VOD" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 02[ALTER]
+http://cdn33.cc:80/ribeirinho/gs1200/35082.ts
+#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 03" tvg-logo="http://p6.vc/VOP" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 03
+http://cdn33.cc:80/ribeirinho/gs1200/63127.ts
+#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 03 [ALTER2]" tvg-logo="http://p6.vc/VOW" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 03 [ALTER2]
+http://cdn33.cc:80/ribeirinho/gs1200/93949.ts
+#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 03[ALTER]" tvg-logo="http://p6.vc/VOE" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 03[ALTER]
+http://cdn33.cc:80/ribeirinho/gs1200/35083.ts
+#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 04" tvg-logo="http://p6.vc/VOQ" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 04
+http://cdn33.cc:80/ribeirinho/gs1200/63128.ts
+#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 04 [ALTER2]" tvg-logo="http://p6.vc/VOX" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 04 [ALTER2]
+http://cdn33.cc:80/ribeirinho/gs1200/93950.ts
+#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 04[ALTER]" tvg-logo="http://p6.vc/VOT" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 04[ALTER]
+http://cdn33.cc:80/ribeirinho/gs1200/93946.ts
+#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 05" tvg-logo="http://p6.vc/VOR" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 05
+http://cdn33.cc:80/ribeirinho/gs1200/63129.ts
+#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 05 [ALTER2]" tvg-logo="http://p6.vc/VOY" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 05 [ALTER2]
+http://cdn33.cc:80/ribeirinho/gs1200/93951.ts
+#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 06" tvg-logo="http://p6.vc/VOS" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 06
+http://cdn33.cc:80/ribeirinho/gs1200/63130.ts
+#EXTINF:-1 tvg-id="" tvg-name="Estadio TNT Sports 06 [ALTER2]" tvg-logo="http://p6.vc/VOZ" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 06 [ALTER2]
+http://cdn33.cc:80/ribeirinho/gs1200/93952.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS [HD]" tvg-logo="http://p6.vc/VOL" group-title="Canais | Jogos & Eventos",ESTADIO TNT SPORTS [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/63123.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS [SD]" tvg-logo="http://p6.vc/VOM" group-title="Canais | Jogos & Eventos",ESTADIO TNT SPORTS [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/63124.ts
+#EXTINF:-1 tvg-id="BR - Film & Arts" tvg-name="FILM&ARTS [HD]" tvg-logo="http://p6.vc/WKJ" group-title="Canais | Filmes e Séries",FILM&ARTS [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/92668.ts
+#EXTINF:-1 tvg-id="BR - Film & Arts" tvg-name="FILM&ARTS [SD]" tvg-logo="http://p6.vc/ARO" group-title="Canais | Filmes e Séries",FILM&ARTS [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/348.ts
+#EXTINF:-1 tvg-id="BR - FishTV" tvg-name="FISH TV [FHD]" tvg-logo="http://p6.vc/AIR" group-title="Canais | Variedades",FISH TV [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/100.ts
+#EXTINF:-1 tvg-id="BR - FishTV" tvg-name="FISH TV [FHD][H265]" tvg-logo="http://p6.vc/VMW" group-title="Canais | Variedades",FISH TV [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30185.ts
+#EXTINF:-1 tvg-id="BR - FishTV" tvg-name="FISH TV [HD]" tvg-logo="http://p6.vc/AIY" group-title="Canais | Variedades",FISH TV [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/109.ts
+#EXTINF:-1 tvg-id="BR - FishTV" tvg-name="FISH TV [SD]" tvg-logo="http://p6.vc/AJH" group-title="Canais | Variedades",FISH TV [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/118.ts
+#EXTINF:-1 tvg-id="BR - Food Network" tvg-name="FOOD NETWORK [FHD]" tvg-logo="http://p6.vc/AIS" group-title="Canais | Variedades",FOOD NETWORK [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/101.ts
+#EXTINF:-1 tvg-id="BR - Food Network" tvg-name="FOOD NETWORK [FHD][H265]" tvg-logo="http://p6.vc/VMY" group-title="Canais | Variedades",FOOD NETWORK [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30193.ts
+#EXTINF:-1 tvg-id="BR - Food Network" tvg-name="FOOD NETWORK [HD]" tvg-logo="http://p6.vc/AIZ" group-title="Canais | Variedades",FOOD NETWORK [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/110.ts
+#EXTINF:-1 tvg-id="BR - Food Network" tvg-name="FOOD NETWORK [SD]" tvg-logo="http://p6.vc/AJI" group-title="Canais | Variedades",FOOD NETWORK [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/119.ts
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sport [4K]" tvg-logo="http://p6.vc/be" group-title="Canais | 4K",Fox Sport [4K]
+http://cdn33.cc:80/ribeirinho/gs1200/593.ts
+#EXTINF:-1 tvg-id="BR - FOX Sports 2" tvg-name="FOX SPORTS 2 [FHD]" tvg-logo="http://p6.vc/AOC" group-title="Canais | Esportes",FOX SPORTS 2 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/252.ts
+#EXTINF:-1 tvg-id="BR - FOX Sports 2" tvg-name="FOX SPORTS 2 [FHD][H265]" tvg-logo="http://p6.vc/WKF" group-title="Canais | Esportes",FOX SPORTS 2 [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30282.ts
+#EXTINF:-1 tvg-id="BR - FOX Sports 2" tvg-name="FOX SPORTS 2 [HD]" tvg-logo="http://p6.vc/AON" group-title="Canais | Esportes",FOX SPORTS 2 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/263.ts
+#EXTINF:-1 tvg-id="BR - FOX Sports 2" tvg-name="FOX SPORTS 2 [SD]" tvg-logo="http://p6.vc/AOV" group-title="Canais | Esportes",FOX SPORTS 2 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/272.ts
+#EXTINF:-1 tvg-id="BR - Futura" tvg-name="FUTURA [FHD]" tvg-logo="http://p6.vc/VCE" group-title="Canais | Abertos",FUTURA [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/43.ts
+#EXTINF:-1 tvg-id="BR - Futura" tvg-name="FUTURA [FHD][H265]" tvg-logo="http://p6.vc/VCE" group-title="Canais | Abertos",FUTURA [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30182.ts
+#EXTINF:-1 tvg-id="BR - Futura HD" tvg-name="FUTURA [HD]" tvg-logo="http://p6.vc/VCE" group-title="Canais | Abertos",FUTURA [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/51.ts
+#EXTINF:-1 tvg-id="BR - Futura" tvg-name="FUTURA [SD]" tvg-logo="http://p6.vc/VCE" group-title="Canais | Abertos",FUTURA [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/66.ts
+#EXTINF:-1 tvg-id="BR - FX" tvg-name="FX [FHD]" tvg-logo="http://p6.vc/APC" group-title="Canais | Filmes e Séries",FX [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/279.ts
+#EXTINF:-1 tvg-id="BR - FX" tvg-name="FX [FHD][H265]" tvg-logo="http://p6.vc/WGY" group-title="Canais | Filmes e Séries",FX [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30211.ts
+#EXTINF:-1 tvg-id="BR - FX" tvg-name="FX [HD]" tvg-logo="http://p6.vc/WGT" group-title="Canais | Filmes e Séries",FX [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/308.ts
+#EXTINF:-1 tvg-id="BR - FX" tvg-name="FX [HD] LEG" tvg-logo="http://p6.vc/WIH" group-title="Canais | Legendados",FX [HD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123506.ts
+#EXTINF:-1 tvg-id="BR - FX" tvg-name="FX [SD]" tvg-logo="http://p6.vc/ARA" group-title="Canais | Filmes e Séries",FX [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/333.ts
+#EXTINF:-1 tvg-id="BR - FX" tvg-name="FX [SD] LEG" tvg-logo="http://p6.vc/WII" group-title="Canais | Legendados",FX [SD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123507.ts
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News [4K]" tvg-logo="http://p6.vc/VNF" group-title="Canais | 4K",Globo News [4K]
+http://cdn33.cc:80/ribeirinho/gs1200/50864.ts
+#EXTINF:-1 tvg-id="BR - Globo News" tvg-name="GLOBO NEWS [FHD]" tvg-logo="http://p6.vc/AWY" group-title="Canais | Notícias",GLOBO NEWS [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/512.ts
+#EXTINF:-1 tvg-id="BR - Globo News" tvg-name="GLOBO NEWS [FHD][H265]" tvg-logo="http://p6.vc/VNB" group-title="Canais | Notícias",GLOBO NEWS [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30196.ts
+#EXTINF:-1 tvg-id="BR - Globo News" tvg-name="GLOBO NEWS [HD]" tvg-logo="http://p6.vc/AXB" group-title="Canais | Notícias",GLOBO NEWS [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/516.ts
+#EXTINF:-1 tvg-id="BR - Globo News" tvg-name="GLOBO NEWS [SD]" tvg-logo="http://p6.vc/AXG" group-title="Canais | Notícias",GLOBO NEWS [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/522.ts
+#EXTINF:-1 tvg-id="BR - Globo SP" tvg-name="Globo SP [4K]" tvg-logo="http://p6.vc/VDE" group-title="Canais | 4K",Globo SP [4K]
+http://cdn33.cc:80/ribeirinho/gs1200/582.ts
+#EXTINF:-1 tvg-id="BR - Globo SP" tvg-name="GLOBO SP [FHD]" tvg-logo="http://p6.vc/ATA" group-title="Canais | Globo",GLOBO SP [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/168251.ts
+#EXTINF:-1 tvg-id="BR - Globo SP" tvg-name="GLOBO SP [FHD][H265]" tvg-logo="http://p6.vc/VDL" group-title="Canais | Globo",GLOBO SP [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30205.ts
+#EXTINF:-1 tvg-id="BR - Globo SP" tvg-name="GLOBO SP [HD]" tvg-logo="http://p6.vc/ATA" group-title="Canais | Globo",GLOBO SP [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/394.ts
+#EXTINF:-1 tvg-id="BR - Globo SP" tvg-name="GLOBO SP [SD]" tvg-logo="http://p6.vc/AUE" group-title="Canais | Globo",GLOBO SP [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/429.ts
+#EXTINF:-1 tvg-id="BR - Globo TV Tribuna" tvg-name="GLOBO TV TRIBUNA SANTOS [FHD]" tvg-logo="http://p6.vc/VFS" group-title="Canais | Globo",GLOBO TV TRIBUNA SANTOS [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/102041.ts
+#EXTINF:-1 tvg-id="BR - Globo TV Tribuna" tvg-name="GLOBO TV TRIBUNA SANTOS [HD]" tvg-logo="http://p6.vc/VES" group-title="Canais | Globo",GLOBO TV TRIBUNA SANTOS [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/56125.ts
+#EXTINF:-1 tvg-id="BR - Globo TV Tribuna" tvg-name="GLOBO TV TRIBUNA SANTOS [SD]" tvg-logo="http://p6.vc/AUH" group-title="Canais | Globo",GLOBO TV TRIBUNA SANTOS [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/433.ts
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT [4K]" tvg-logo="http://p6.vc/VNH" group-title="Canais | 4K",GNT [4K]
+http://cdn33.cc:80/ribeirinho/gs1200/50870.ts
+#EXTINF:-1 tvg-id="BR - GNT" tvg-name="GNT [FHD]" tvg-logo="http://p6.vc/AIT" group-title="Canais | Variedades",GNT [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/102.ts
+#EXTINF:-1 tvg-id="GNT.HD.br" tvg-name="GNT [FHD][H265]" tvg-logo="http://p6.vc/VMX" group-title="Canais | Variedades",GNT [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30187.ts
+#EXTINF:-1 tvg-id="BR - GNT" tvg-name="GNT [HD]" tvg-logo="http://p6.vc/AJA" group-title="Canais | Variedades",GNT [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/111.ts
+#EXTINF:-1 tvg-id="BR - GNT" tvg-name="GNT [SD]" tvg-logo="http://p6.vc/AJJ" group-title="Canais | Variedades",GNT [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/120.ts
+#EXTINF:-1 tvg-id="BR - Golf Channel" tvg-name="GOLF CHANNEL [FHD]" tvg-logo="http://p6.vc/WKN" group-title="Canais | Esportes",GOLF CHANNEL [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/124093.ts
+#EXTINF:-1 tvg-id="BR - HBO 2" tvg-name="HBO 2 [FHD]" tvg-logo="http://p6.vc/AVK" group-title="Canais | HBO",HBO 2 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/470.ts
+#EXTINF:-1 tvg-id="BR - HBO 2" tvg-name="HBO 2 [FHD][H265]" tvg-logo="http://p6.vc/VSK" group-title="Canais | HBO",HBO 2 [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30234.ts
+#EXTINF:-1 tvg-id="BR - HBO 2" tvg-name="HBO 2 [HD]" tvg-logo="http://p6.vc/AVM" group-title="Canais | HBO",HBO 2 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/472.ts
+#EXTINF:-1 tvg-id="BR - HBO 2" tvg-name="HBO 2 [SD]" tvg-logo="http://p6.vc/VSE" group-title="Canais | HBO",HBO 2 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/481.ts
+#EXTINF:-1 tvg-id="BR - HBO Family HD" tvg-name="HBO FAMILY [FHD]" tvg-logo="http://p6.vc/AVE" group-title="Canais | HBO",HBO FAMILY [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/464.ts
+#EXTINF:-1 tvg-id="BR - HBO Family HD" tvg-name="HBO FAMILY [FHD][H265]" tvg-logo="http://p6.vc/VSL" group-title="Canais | HBO",HBO FAMILY [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30235.ts
+#EXTINF:-1 tvg-id="BR - HBO Family HD" tvg-name="HBO FAMILY [HD]" tvg-logo="http://p6.vc/VSD" group-title="Canais | HBO",HBO FAMILY [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/473.ts
+#EXTINF:-1 tvg-id="BR - HBO Family HD" tvg-name="HBO FAMILY [SD]" tvg-logo="http://p6.vc/AVV" group-title="Canais | HBO",HBO FAMILY [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/483.ts
+#EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO MUNDI [FHD]" tvg-logo="http://p6.vc/AVH" group-title="Canais | HBO",HBO MUNDI [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/467.ts
+#EXTINF:-1 tvg-id="HBO Mundi HD" tvg-name="HBO MUNDI [FHD] LEG" tvg-logo="http://p6.vc/VWN" group-title="Canais | Legendados",HBO MUNDI [FHD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123557.ts
+#EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO MUNDI [FHD][H265]" tvg-logo="http://p6.vc/VSP" group-title="Canais | HBO",HBO MUNDI [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30239.ts
+#EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO MUNDI [HD]" tvg-logo="http://p6.vc/AVQ" group-title="Canais | HBO",HBO MUNDI [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/477.ts
+#EXTINF:-1 tvg-id="HBO Mundi HD" tvg-name="HBO MUNDI [HD] LEG" tvg-logo="http://p6.vc/VWO" group-title="Canais | Legendados",HBO MUNDI [HD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123558.ts
+#EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO MUNDI [SD]" tvg-logo="http://p6.vc/AVX" group-title="Canais | HBO",HBO MUNDI [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/485.ts
+#EXTINF:-1 tvg-id="BR - HBO Plus" tvg-name="HBO PLUS [FHD]" tvg-logo="http://p6.vc/AVF" group-title="Canais | HBO",HBO PLUS [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/465.ts
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO PLUS [FHD] LEG" tvg-logo="http://p6.vc/VVS" group-title="Canais | Legendados",HBO PLUS [FHD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123491.ts
+#EXTINF:-1 tvg-id="BR - HBO Plus" tvg-name="HBO PLUS [FHD][H265]" tvg-logo="http://p6.vc/VSN" group-title="Canais | HBO",HBO PLUS [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30237.ts
+#EXTINF:-1 tvg-id="BR - HBO Plus" tvg-name="HBO PLUS [HD]" tvg-logo="http://p6.vc/AVO" group-title="Canais | HBO",HBO PLUS [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/475.ts
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO PLUS [HD] LEG" tvg-logo="http://p6.vc/VVQ" group-title="Canais | Legendados",HBO PLUS [HD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123489.ts
+#EXTINF:-1 tvg-id="BR - HBO Plus" tvg-name="HBO PLUS [SD]" tvg-logo="http://p6.vc/AVU" group-title="Canais | HBO",HBO PLUS [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/482.ts
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO PLUS [SD] LEG" tvg-logo="http://p6.vc/VVR" group-title="Canais | Legendados",HBO PLUS [SD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123490.ts
+#EXTINF:-1 tvg-id="HBO.Pop.HD.br" tvg-name="HBO POP [FHD]" tvg-logo="http://p6.vc/AVJ" group-title="Canais | HBO",HBO POP [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/469.ts
+#EXTINF:-1 tvg-id="HBO Pop HD" tvg-name="HBO POP [FHD] LEG" tvg-logo="http://p6.vc/WIS" group-title="Canais | Legendados",HBO POP [FHD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123554.ts
+#EXTINF:-1 tvg-id="HBO.Pop.HD.br" tvg-name="HBO POP [FHD][H265]" tvg-logo="http://p6.vc/WHN" group-title="Canais | HBO",HBO POP [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30241.ts
+#EXTINF:-1 tvg-id="HBO.Pop.HD.br" tvg-name="HBO POP [HD]" tvg-logo="http://p6.vc/AVS" group-title="Canais | HBO",HBO POP [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/479.ts
+#EXTINF:-1 tvg-id="HBO Pop HD" tvg-name="HBO POP [HD] LEG" tvg-logo="http://p6.vc/WIJ" group-title="Canais | Legendados",HBO POP [HD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123508.ts
+#EXTINF:-1 tvg-id="HBO.Pop.HD.br" tvg-name="HBO POP [SD]" tvg-logo="http://p6.vc/AVZ" group-title="Canais | HBO",HBO POP [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/487.ts
+#EXTINF:-1 tvg-id="HBO Pop HD" tvg-name="HBO POP [SD] LEG" tvg-logo="http://p6.vc/WIK" group-title="Canais | Legendados",HBO POP [SD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123509.ts
+#EXTINF:-1 tvg-id="BR - HBO Signature" tvg-name="HBO SIGNATURE [FHD]" tvg-logo="http://p6.vc/AVG" group-title="Canais | HBO",HBO SIGNATURE [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/466.ts
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO SIGNATURE [FHD] LEG" tvg-logo="http://p6.vc/VWL" group-title="Canais | Legendados",HBO SIGNATURE [FHD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123555.ts
+#EXTINF:-1 tvg-id="BR - HBO Signature" tvg-name="HBO SIGNATURE [FHD][H265]" tvg-logo="http://p6.vc/VSO" group-title="Canais | HBO",HBO SIGNATURE [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30238.ts
+#EXTINF:-1 tvg-id="BR - HBO Signature" tvg-name="HBO SIGNATURE [HD]" tvg-logo="http://p6.vc/AVP" group-title="Canais | HBO",HBO SIGNATURE [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/476.ts
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO SIGNATURE [HD] LEG" tvg-logo="http://p6.vc/VWM" group-title="Canais | Legendados",HBO SIGNATURE [HD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123556.ts
+#EXTINF:-1 tvg-id="BR - HBO Signature" tvg-name="HBO SIGNATURE [SD]" tvg-logo="http://p6.vc/AVW" group-title="Canais | HBO",HBO SIGNATURE [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/484.ts
+#EXTINF:-1 tvg-id="HBO.Xtreme.HD.br" tvg-name="HBO XTREME [FHD]" tvg-logo="http://p6.vc/AVI" group-title="Canais | HBO",HBO XTREME [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/468.ts
+#EXTINF:-1 tvg-id="HBO Xtreme HD" tvg-name="HBO XTREME [FHD] LEG" tvg-logo="http://p6.vc/WIT" group-title="Canais | Legendados",HBO XTREME [FHD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123559.ts
+#EXTINF:-1 tvg-id="HBO.Xtreme.HD.br" tvg-name="HBO XTREME [FHD][H265]" tvg-logo="http://p6.vc/WHM" group-title="Canais | HBO",HBO XTREME [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30240.ts
+#EXTINF:-1 tvg-id="HBO.Xtreme.HD.br" tvg-name="HBO XTREME [HD]" tvg-logo="http://p6.vc/AVR" group-title="Canais | HBO",HBO XTREME [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/478.ts
+#EXTINF:-1 tvg-id="HBO Xtreme HD" tvg-name="HBO XTREME [HD] LEG" tvg-logo="http://p6.vc/WIU" group-title="Canais | Legendados",HBO XTREME [HD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123560.ts
+#EXTINF:-1 tvg-id="HBO Xtreme HD" tvg-name="HBO XTREME [SD] LEG" tvg-logo="http://p6.vc/WIE" group-title="Canais | Legendados",HBO XTREME [SD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123492.ts
+#EXTINF:-1 tvg-id="BR - HBO" tvg-name="HBO [FHD]" tvg-logo="http://p6.vc/VSM" group-title="Canais | HBO",HBO [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/471.ts
+#EXTINF:-1 tvg-id="BR - HBO" tvg-name="HBO [FHD] LEG" tvg-logo="http://p6.vc/VVP" group-title="Canais | Legendados",HBO [FHD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123488.ts
+#EXTINF:-1 tvg-id="BR - HBO" tvg-name="HBO [FHD][H265]" tvg-logo="http://p6.vc/VSM" group-title="Canais | HBO",HBO [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30236.ts
+#EXTINF:-1 tvg-id="BR - HBO" tvg-name="HBO [HD]" tvg-logo="http://p6.vc/VSM" group-title="Canais | HBO",HBO [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/474.ts
+#EXTINF:-1 tvg-id="BR - HBO HD" tvg-name="HBO [HD] LEG" tvg-logo="http://p6.vc/VVN" group-title="Canais | Legendados",HBO [HD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123486.ts
+#EXTINF:-1 tvg-id="BR - HBO" tvg-name="HBO [SD]" tvg-logo="http://p6.vc/VSM" group-title="Canais | HBO",HBO [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/480.ts
+#EXTINF:-1 tvg-id="BR - HBO" tvg-name="HBO [SD] LEG" tvg-logo="http://p6.vc/VVO" group-title="Canais | Legendados",HBO [SD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123487.ts
+#EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV [FHD]" tvg-logo="http://p6.vc/ALB" group-title="Canais | Documentários",HGTV [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/167.ts
+#EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV [FHD][H265]" tvg-logo="http://p6.vc/WJT" group-title="Canais | Documentários",HGTV [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30253.ts
+#EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV [HD]" tvg-logo="http://p6.vc/ALP" group-title="Canais | Documentários",HGTV [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/182.ts
+#EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV [SD]" tvg-logo="http://p6.vc/AMC" group-title="Canais | Documentários",HGTV [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/197.ts
+#EXTINF:-1 tvg-id="History 2" tvg-name="HISTORY CHANNEL 2 [FHD]" tvg-logo="http://p6.vc/ALH" group-title="Canais | Documentários",HISTORY CHANNEL 2 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/173.ts
+#EXTINF:-1 tvg-id="History 2" tvg-name="HISTORY CHANNEL 2 [FHD][H265]" tvg-logo="http://p6.vc/WJY" group-title="Canais | Documentários",HISTORY CHANNEL 2 [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30262.ts
+#EXTINF:-1 tvg-id="History 2" tvg-name="HISTORY CHANNEL 2 [HD]" tvg-logo="http://p6.vc/ALU" group-title="Canais | Documentários",HISTORY CHANNEL 2 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/188.ts
+#EXTINF:-1 tvg-id="History 2" tvg-name="HISTORY CHANNEL 2 [SD]" tvg-logo="http://p6.vc/AMI" group-title="Canais | Documentários",HISTORY CHANNEL 2 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/203.ts
+#EXTINF:-1 tvg-id="BR - History Channel" tvg-name="HISTORY CHANNEL [FHD]" tvg-logo="http://p6.vc/WJS" group-title="Canais | Documentários",HISTORY CHANNEL [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/174.ts
+#EXTINF:-1 tvg-id="BR - History Channel" tvg-name="HISTORY CHANNEL [FHD][H265]" tvg-logo="http://p6.vc/WJS" group-title="Canais | Documentários",HISTORY CHANNEL [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30250.ts
+#EXTINF:-1 tvg-id="BR - History Channel" tvg-name="HISTORY CHANNEL [HD]" tvg-logo="http://p6.vc/WJS" group-title="Canais | Documentários",HISTORY CHANNEL [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/189.ts
+#EXTINF:-1 tvg-id="BR - History Channel" tvg-name="HISTORY CHANNEL [SD]" tvg-logo="http://p6.vc/WJS" group-title="Canais | Documentários",HISTORY CHANNEL [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/204.ts
+#EXTINF:-1 tvg-id="ID.HD.br" tvg-name="INVESTIGACAO DISCOVERY CHANNEL [FHD][H265]" tvg-logo="http://p6.vc/WJW" group-title="Canais | Documentários",INVESTIGACAO DISCOVERY CHANNEL [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30259.ts
+#EXTINF:-1 tvg-id="ID.HD.br" tvg-name="INVESTIGACAO DISCOVERY [FHD]" tvg-logo="http://p6.vc/WJJ" group-title="Canais | Documentários",INVESTIGACAO DISCOVERY [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/175.ts
+#EXTINF:-1 tvg-id="ID.HD.br" tvg-name="INVESTIGACAO DISCOVERY [HD]" tvg-logo="http://p6.vc/WJW" group-title="Canais | Documentários",INVESTIGACAO DISCOVERY [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/190.ts
+#EXTINF:-1 tvg-id="ID.HD.br" tvg-name="INVESTIGACAO DISCOVERY [SD]" tvg-logo="http://p6.vc/WJW" group-title="Canais | Documentários",INVESTIGACAO DISCOVERY [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/205.ts
+#EXTINF:-1 tvg-id="BR - Megapix" tvg-name="MEGAPIX [FHD]" tvg-logo="http://p6.vc/APE" group-title="Canais | Filmes e Séries",MEGAPIX [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/281.ts
+#EXTINF:-1 tvg-id="BR - Megapix" tvg-name="MEGAPIX [FHD] [LEG]" tvg-logo="http://p6.vc/WIL" group-title="Canais | Legendados",MEGAPIX [FHD] [LEG]
+http://cdn33.cc:80/ribeirinho/gs1200/169117.ts
+#EXTINF:-1 tvg-id="BR - Megapix" tvg-name="MEGAPIX [FHD][H265]" tvg-logo="http://p6.vc/WHC" group-title="Canais | Filmes e Séries",MEGAPIX [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30218.ts
+#EXTINF:-1 tvg-id="BR - Megapix" tvg-name="MEGAPIX [HD]" tvg-logo="http://p6.vc/AQF" group-title="Canais | Filmes e Séries",MEGAPIX [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/310.ts
+#EXTINF:-1 tvg-id="BR - Megapix" tvg-name="MEGAPIX [HD] LEG" tvg-logo="http://p6.vc/WIL" group-title="Canais | Legendados",MEGAPIX [HD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123510.ts
+#EXTINF:-1 tvg-id="BR - Megapix" tvg-name="MEGAPIX [SD]" tvg-logo="http://p6.vc/ARC" group-title="Canais | Filmes e Séries",MEGAPIX [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/335.ts
+#EXTINF:-1 tvg-id="BR - Megapix" tvg-name="MEGAPIX [SD] LEG" tvg-logo="http://p6.vc/WIM" group-title="Canais | Legendados",MEGAPIX [SD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123511.ts
+#EXTINF:-1 tvg-id="" tvg-name="MLB NETWORK LIVE [HD]" tvg-logo="http://p6.vc/VOH" group-title="Canais | Jogos & Eventos",MLB NETWORK LIVE [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/53287.ts
+#EXTINF:-1 tvg-id="BR - + Globosat" tvg-name="MODO VIAGEM [FHD]" tvg-logo="http://p6.vc/VMT" group-title="Canais | Variedades",MODO VIAGEM [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/103.ts
+#EXTINF:-1 tvg-id="BR - + Globosat" tvg-name="MODO VIAGEM [FHD][H265]" tvg-logo="http://p6.vc/VMZ" group-title="Canais | Variedades",MODO VIAGEM [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30194.ts
+#EXTINF:-1 tvg-id="BR - + Globosat" tvg-name="MODO VIAGEM [HD]" tvg-logo="http://p6.vc/AJB" group-title="Canais | Variedades",MODO VIAGEM [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/112.ts
+#EXTINF:-1 tvg-id="BR - + Globosat" tvg-name="MODO VIAGEM [SD]" tvg-logo="http://p6.vc/AJK" group-title="Canais | Variedades",MODO VIAGEM [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/121.ts
+#EXTINF:-1 tvg-id="MTV 00s" tvg-name="MTV 00S [FHD]" tvg-logo="http://p6.vc/VAV" group-title="Canais | Art & Music",MTV 00S [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/108973.ts
+#EXTINF:-1 tvg-id="MTV 00s" tvg-name="MTV 00S [FHD][H265]" tvg-logo="http://p6.vc/VAS" group-title="Canais | Art & Music",MTV 00S [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/90688.ts
+#EXTINF:-1 tvg-id="MTV 00s" tvg-name="MTV 00S [HD]" tvg-logo="http://p6.vc/VAR" group-title="Canais | Art & Music",MTV 00S [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/90687.ts
+#EXTINF:-1 tvg-id="BR - Globo" tvg-name="MTV 00S [SD]" tvg-logo="http://p6.vc/AFH" group-title="Canais | Art & Music",MTV 00S [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/8.ts
+#EXTINF:-1 tvg-id="MTV LIVE" tvg-name="MTV LIVE [FHD]" tvg-logo="http://p6.vc/VAG" group-title="Canais | Art & Music",MTV LIVE [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/2.ts
+#EXTINF:-1 tvg-id="MTV LIVE" tvg-name="MTV LIVE [FHD][H265]" tvg-logo="http://p6.vc/VAL" group-title="Canais | Art & Music",MTV LIVE [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30172.ts
+#EXTINF:-1 tvg-id="MTV LIVE" tvg-name="MTV LIVE [HD]" tvg-logo="http://p6.vc/AFM" group-title="Canais | Art & Music",MTV LIVE [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/13.ts
+#EXTINF:-1 tvg-id="MTV LIVE" tvg-name="MTV LIVE [SD]" tvg-logo="http://p6.vc/VAJ" group-title="Canais | Art & Music",MTV LIVE [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/6.ts
+#EXTINF:-1 tvg-id="BR - MTV Brasil" tvg-name="MTV [FHD]" tvg-logo="http://p6.vc/VAF" group-title="Canais | Art & Music",MTV [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/1.ts
+#EXTINF:-1 tvg-id="BR - MTV Brasil" tvg-name="MTV [FHD][H265]" tvg-logo="http://p6.vc/VAO" group-title="Canais | Art & Music",MTV [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30175.ts
+#EXTINF:-1 tvg-id="BR - MTV Brasil" tvg-name="MTV [HD]" tvg-logo="http://p6.vc/VAK" group-title="Canais | Art & Music",MTV [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/15.ts
+#EXTINF:-1 tvg-id="BR - MTV Brasil" tvg-name="MTV [SD]" tvg-logo="http://p6.vc/AFI" group-title="Canais | Art & Music",MTV [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/9.ts
+#EXTINF:-1 tvg-id="BR - Multishow" tvg-name="MULTISHOW [FHD]" tvg-logo="http://p6.vc/VAH" group-title="Canais | Art & Music",MULTISHOW [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/3.ts
+#EXTINF:-1 tvg-id="BR - Multishow" tvg-name="MULTISHOW [FHD][H265]" tvg-logo="http://p6.vc/VAM" group-title="Canais | Art & Music",MULTISHOW [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30173.ts
+#EXTINF:-1 tvg-id="BR - Multishow" tvg-name="MULTISHOW [HD]" tvg-logo="http://p6.vc/AFO" group-title="Canais | Art & Music",MULTISHOW [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/16.ts
+#EXTINF:-1 tvg-id="BR - Multishow" tvg-name="MULTISHOW [SD]" tvg-logo="http://p6.vc/AFJ" group-title="Canais | Art & Music",MULTISHOW [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/10.ts
+#EXTINF:-1 tvg-id="BR - Music Box Brasil" tvg-name="MUSIC BOX BRASIL [FHD]" tvg-logo="http://p6.vc/VAI" group-title="Canais | Art & Music",MUSIC BOX BRASIL [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/4.ts
+#EXTINF:-1 tvg-id="BR - Music Box Brasil" tvg-name="MUSIC BOX BRASIL [FHD][H265]" tvg-logo="http://p6.vc/VAP" group-title="Canais | Art & Music",MUSIC BOX BRASIL [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30176.ts
+#EXTINF:-1 tvg-id="BR - Music Box Brasil" tvg-name="MUSIC BOX BRASIL [HD]" tvg-logo="http://p6.vc/AFP" group-title="Canais | Art & Music",MUSIC BOX BRASIL [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/17.ts
+#EXTINF:-1 tvg-id="BR - Music Box Brasil" tvg-name="MUSIC BOX BRASIL [SD]" tvg-logo="http://p6.vc/AFK" group-title="Canais | Art & Music",MUSIC BOX BRASIL [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/11.ts
+#EXTINF:-1 tvg-id="BR - National Geographic" tvg-name="NATIONAL GEOGRAPHIC [FHD]" tvg-logo="http://p6.vc/ALJ" group-title="Canais | Documentários",NATIONAL GEOGRAPHIC [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/176.ts
+#EXTINF:-1 tvg-id="BR - National Geographic" tvg-name="NATIONAL GEOGRAPHIC [FHD][H265]" tvg-logo="http://p6.vc/WHQ" group-title="Canais | Documentários",NATIONAL GEOGRAPHIC [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30251.ts
+#EXTINF:-1 tvg-id="BR - National Geographic" tvg-name="NATIONAL GEOGRAPHIC [HD]" tvg-logo="http://p6.vc/ALX" group-title="Canais | Documentários",NATIONAL GEOGRAPHIC [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/191.ts
+#EXTINF:-1 tvg-id="BR - National Geographic" tvg-name="NATIONAL GEOGRAPHIC [SD]" tvg-logo="http://p6.vc/AML" group-title="Canais | Documentários",NATIONAL GEOGRAPHIC [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/206.ts
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL [HD]" tvg-logo="http://p6.vc/WKP" group-title="Canais | Esportes",NFL [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/126459.ts
+#EXTINF:-1 tvg-id="BR - Nick Jr." tvg-name="NICK JR [FHD]" tvg-logo="http://p6.vc/AJT" group-title="Canais | Infantis",NICK JR [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/130.ts
+#EXTINF:-1 tvg-id="BR - Nick Jr." tvg-name="NICK JR [FHD][H265]" tvg-logo="http://p6.vc/WIX" group-title="Canais | Infantis",NICK JR [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30263.ts
+#EXTINF:-1 tvg-id="BR - Nick Jr." tvg-name="NICK JR [HD]" tvg-logo="http://p6.vc/AKG" group-title="Canais | Infantis",NICK JR [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/144.ts
+#EXTINF:-1 tvg-id="BR - Nick Jr." tvg-name="NICK JR [SD]" tvg-logo="http://p6.vc/AKG" group-title="Canais | Infantis",NICK JR [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/158.ts
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="NICKELODEON [FHD]" tvg-logo="http://p6.vc/WIY" group-title="Canais | Infantis",NICKELODEON [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/131.ts
+#EXTINF:-1 tvg-id="BR - Nickelodeon" tvg-name="NICKELODEON [FHD][H265]" tvg-logo="http://p6.vc/WIY" group-title="Canais | Infantis",NICKELODEON [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30264.ts
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="NICKELODEON [HD]" tvg-logo="http://p6.vc/WIY" group-title="Canais | Infantis",NICKELODEON [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/145.ts
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="NICKELODEON [SD]" tvg-logo="http://p6.vc/WIY" group-title="Canais | Infantis",NICKELODEON [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/159.ts
+#EXTINF:-1 tvg-id="BR - TV Novo Tempo" tvg-name="NOVO TEMPO [FHD][H265]" tvg-logo="http://p6.vc/VPU" group-title="Canais | Religiosos",NOVO TEMPO [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30294.ts
+#EXTINF:-1 tvg-id="BR - TV Novo Tempo" tvg-name="NOVO TEMPO [HD]" tvg-logo="http://p6.vc/VQD" group-title="Canais | Religiosos",NOVO TEMPO [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/56182.ts
+#EXTINF:-1 tvg-id="BR - TV Novo Tempo" tvg-name="NOVO TEMPO [SD]" tvg-logo="http://p6.vc/VQC" group-title="Canais | Religiosos",NOVO TEMPO [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/56181.ts
+#EXTINF:-1 tvg-id="BR - Off" tvg-name="OFF [FHD]" tvg-logo="http://p6.vc/AOD" group-title="Canais | Esportes",OFF [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/253.ts
+#EXTINF:-1 tvg-id="BR - Off" tvg-name="OFF [FHD][H265]" tvg-logo="http://p6.vc/WKC" group-title="Canais | Esportes",OFF [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30279.ts
+#EXTINF:-1 tvg-id="BR - Off" tvg-name="OFF [HD]" tvg-logo="http://p6.vc/WJL" group-title="Canais | Esportes",OFF [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/264.ts
+#EXTINF:-1 tvg-id="OFF.br" tvg-name="OFF [SD]" tvg-logo="http://p6.vc/AOW" group-title="Canais | Esportes",OFF [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/273.ts
+#EXTINF:-1 tvg-id="" tvg-name="ONEFOOTBALL 1 [HD]" tvg-logo="http://p6.vc/XWV" group-title="Canais | Jogos & Eventos",ONEFOOTBALL 1 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/133536.ts
+#EXTINF:-1 tvg-id="" tvg-name="ONEFOOTBALL 1 [SD]" tvg-logo="http://p6.vc/XWU" group-title="Canais | Jogos & Eventos",ONEFOOTBALL 1 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/133535.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT 1 [SD] [ALTER2]" tvg-logo="http://p6.vc/AON6" group-title="Canais | Jogos & Eventos",PARAMOUNT 1 [SD] [ALTER2]
+http://cdn33.cc:80/ribeirinho/gs1200/140508.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT 2 [SD] [ALTER2]" tvg-logo="http://p6.vc/AON7" group-title="Canais | Jogos & Eventos",PARAMOUNT 2 [SD] [ALTER2]
+http://cdn33.cc:80/ribeirinho/gs1200/140509.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT 3 [SD] [ALTER2]" tvg-logo="http://p6.vc/AON8" group-title="Canais | Jogos & Eventos",PARAMOUNT 3 [SD] [ALTER2]
+http://cdn33.cc:80/ribeirinho/gs1200/140510.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT 4 [SD] [ALTER2]" tvg-logo="http://p6.vc/AON9" group-title="Canais | Jogos & Eventos",PARAMOUNT 4 [SD] [ALTER2]
+http://cdn33.cc:80/ribeirinho/gs1200/140511.ts
+#EXTINF:-1 tvg-id="BR - Paramount Channel" tvg-name="PARAMOUNT NETWORK [FHD]" tvg-logo="http://p6.vc/APS" group-title="Canais | Filmes e Séries",PARAMOUNT NETWORK [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/296.ts
+#EXTINF:-1 tvg-id="BR - Paramount Channel" tvg-name="PARAMOUNT NETWORK [FHD][H265]" tvg-logo="http://p6.vc/APS" group-title="Canais | Filmes e Séries",PARAMOUNT NETWORK [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30213.ts
+#EXTINF:-1 tvg-id="BR - Paramount Channel" tvg-name="PARAMOUNT NETWORK [HD]" tvg-logo="http://p6.vc/APS" group-title="Canais | Filmes e Séries",PARAMOUNT NETWORK [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/311.ts
+#EXTINF:-1 tvg-id="BR - Paramount Channel" tvg-name="PARAMOUNT NETWORK [SD]" tvg-logo="http://p6.vc/APS" group-title="Canais | Filmes e Séries",PARAMOUNT NETWORK [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/336.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 1 [FHDR][ALTER2]" tvg-logo="http://p6.vc/AOP0" group-title="Canais | Jogos & Eventos",Paramount+ 1 [FHDR][ALTER2]
+http://cdn33.cc:80/ribeirinho/gs1200/197727.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 1 [FHD]" tvg-logo="http://p6.vc/AOO0" group-title="Canais | Jogos & Eventos",PARAMOUNT+ 1 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/197717.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 1 [FHD] [ALTER2]" tvg-logo="http://p6.vc/AON2" group-title="Canais | Jogos & Eventos",PARAMOUNT+ 1 [FHD] [ALTER2]
+http://cdn33.cc:80/ribeirinho/gs1200/134637.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 1 [H265][ALTER2]" tvg-logo="http://p6.vc/AOO6" group-title="Canais | Jogos & Eventos",Paramount+ 1 [H265][ALTER2]
+http://cdn33.cc:80/ribeirinho/gs1200/197723.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 1 [HD] [ALTER2]" tvg-logo="http://p6.vc/AOO5" group-title="Canais | Jogos & Eventos",PARAMOUNT+ 1 [HD] [ALTER2]
+http://cdn33.cc:80/ribeirinho/gs1200/197722.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 2 [ALTER] [HD]" tvg-logo="http://p6.vc/AON3" group-title="Canais | Jogos & Eventos",Paramount+ 2 [ALTER] [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/134638.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 2 [FHDR][ALTER2]" tvg-logo="http://p6.vc/AOP1" group-title="Canais | Jogos & Eventos",Paramount+ 2 [FHDR][ALTER2]
+http://cdn33.cc:80/ribeirinho/gs1200/197728.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 2 [FHD]" tvg-logo="http://p6.vc/AOO1" group-title="Canais | Jogos & Eventos",PARAMOUNT+ 2 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/197718.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 2 [H265][ALTER2]" tvg-logo="http://p6.vc/AOO7" group-title="Canais | Jogos & Eventos",Paramount+ 2 [H265][ALTER2]
+http://cdn33.cc:80/ribeirinho/gs1200/197724.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 2 [HD] [ALTER2]" tvg-logo="http://p6.vc/AOO4" group-title="Canais | Jogos & Eventos",PARAMOUNT+ 2 [HD] [ALTER2]
+http://cdn33.cc:80/ribeirinho/gs1200/197721.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 3 [ALTER] [HD]" tvg-logo="http://p6.vc/AON4" group-title="Canais | Jogos & Eventos",Paramount+ 3 [ALTER] [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/134639.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 3 [H265][ALTER2]" tvg-logo="http://p6.vc/AOO8" group-title="Canais | Jogos & Eventos",Paramount+ 3 [H265][ALTER2]
+http://cdn33.cc:80/ribeirinho/gs1200/197725.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 3 [HD] [ALTER2]" tvg-logo="http://p6.vc/AOO3" group-title="Canais | Jogos & Eventos",PARAMOUNT+ 3 [HD] [ALTER2]
+http://cdn33.cc:80/ribeirinho/gs1200/197720.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 4 [ALTER] [HD]" tvg-logo="http://p6.vc/AON5" group-title="Canais | Jogos & Eventos",Paramount+ 4 [ALTER] [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/134640.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 4 [H265][ALTER2]" tvg-logo="http://p6.vc/AOO9" group-title="Canais | Jogos & Eventos",Paramount+ 4 [H265][ALTER2]
+http://cdn33.cc:80/ribeirinho/gs1200/197726.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 4 [HD] [ALTER2]" tvg-logo="http://p6.vc/AOO2" group-title="Canais | Jogos & Eventos",PARAMOUNT+ 4 [HD] [ALTER2]
+http://cdn33.cc:80/ribeirinho/gs1200/197719.ts
+#EXTINF:-1 tvg-id="BR - Globo" tvg-name="POLISHOP TV [SD]" tvg-logo="http://p6.vc/AJN" group-title="Canais | Variedades",POLISHOP TV [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/124.ts
+#EXTINF:-1 tvg-id="BR - Premiere 2" tvg-name="PREMIERE 2 [FHD]" tvg-logo="http://p6.vc/AXJ" group-title="Canais | Premiere",PREMIERE 2 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/525.ts
+#EXTINF:-1 tvg-id="BR - Premiere 2" tvg-name="PREMIERE 2 [FHD][H265]" tvg-logo="http://p6.vc/VSX" group-title="Canais | Premiere",PREMIERE 2 [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30284.ts
+#EXTINF:-1 tvg-id="BR - Premiere 2" tvg-name="PREMIERE 2 [HD]" tvg-logo="http://p6.vc/AXP" group-title="Canais | Premiere",PREMIERE 2 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/531.ts
+#EXTINF:-1 tvg-id="BR - Premiere 2" tvg-name="PREMIERE 2 [SD]" tvg-logo="http://p6.vc/AXU" group-title="Canais | Premiere",PREMIERE 2 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/538.ts
+#EXTINF:-1 tvg-id="BR - Premiere 3" tvg-name="PREMIERE 3 [FHD]" tvg-logo="http://p6.vc/AXK" group-title="Canais | Premiere",PREMIERE 3 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/526.ts
+#EXTINF:-1 tvg-id="BR - Premiere 3" tvg-name="PREMIERE 3 [FHD][H265]" tvg-logo="http://p6.vc/VSY" group-title="Canais | Premiere",PREMIERE 3 [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30285.ts
+#EXTINF:-1 tvg-id="BR - Premiere 3" tvg-name="PREMIERE 3 [HD]" tvg-logo="http://p6.vc/AXQ" group-title="Canais | Premiere",PREMIERE 3 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/532.ts
+#EXTINF:-1 tvg-id="BR - Premiere 3" tvg-name="PREMIERE 3 [SD]" tvg-logo="http://p6.vc/AXV" group-title="Canais | Premiere",PREMIERE 3 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/539.ts
+#EXTINF:-1 tvg-id="BR - Premiere 4" tvg-name="PREMIERE 4 [FHD]" tvg-logo="http://p6.vc/AXL" group-title="Canais | Premiere",PREMIERE 4 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/527.ts
+#EXTINF:-1 tvg-id="BR - Premiere 4" tvg-name="PREMIERE 4 [FHD][H265]" tvg-logo="http://p6.vc/VTB" group-title="Canais | Premiere",PREMIERE 4 [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30288.ts
+#EXTINF:-1 tvg-id="BR - Premiere 4" tvg-name="PREMIERE 4 [HD]" tvg-logo="http://p6.vc/VSF" group-title="Canais | Premiere",PREMIERE 4 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/533.ts
+#EXTINF:-1 tvg-id="BR - Premiere 4" tvg-name="PREMIERE 4 [SD]" tvg-logo="http://p6.vc/AXW" group-title="Canais | Premiere",PREMIERE 4 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/540.ts
+#EXTINF:-1 tvg-id="BR - Premiere 5 Brazil" tvg-name="PREMIERE 5 [FHD]" tvg-logo="http://p6.vc/AXM" group-title="Canais | Premiere",PREMIERE 5 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/528.ts
+#EXTINF:-1 tvg-id="BR - Premiere 5 Brazil" tvg-name="PREMIERE 5 [FHD][H265]" tvg-logo="http://p6.vc/VSZ" group-title="Canais | Premiere",PREMIERE 5 [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30286.ts
+#EXTINF:-1 tvg-id="BR - Premiere 5 Brazil" tvg-name="PREMIERE 5 [HD]" tvg-logo="http://p6.vc/AXR" group-title="Canais | Premiere",PREMIERE 5 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/534.ts
+#EXTINF:-1 tvg-id="BR - Premiere 5 Brazil" tvg-name="PREMIERE 5 [SD]" tvg-logo="http://p6.vc/AXX" group-title="Canais | Premiere",PREMIERE 5 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/541.ts
+#EXTINF:-1 tvg-id="BR - Premiere 6" tvg-name="PREMIERE 6 [FHD]" tvg-logo="http://p6.vc/AXN" group-title="Canais | Premiere",PREMIERE 6 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/529.ts
+#EXTINF:-1 tvg-id="BR - Premiere 6" tvg-name="PREMIERE 6 [FHD][H265]" tvg-logo="http://p6.vc/VTC" group-title="Canais | Premiere",PREMIERE 6 [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30289.ts
+#EXTINF:-1 tvg-id="BR - Premiere 6" tvg-name="PREMIERE 6 [HD]" tvg-logo="http://p6.vc/AXS" group-title="Canais | Premiere",PREMIERE 6 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/535.ts
+#EXTINF:-1 tvg-id="BR - Premiere 6" tvg-name="PREMIERE 6 [SD]" tvg-logo="http://p6.vc/AXY" group-title="Canais | Premiere",PREMIERE 6 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/542.ts
+#EXTINF:-1 tvg-id="BR - Premiere 7" tvg-name="PREMIERE 7 [FHD]" tvg-logo="http://p6.vc/AXO" group-title="Canais | Premiere",PREMIERE 7 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/530.ts
+#EXTINF:-1 tvg-id="BR - Premiere 7" tvg-name="PREMIERE 7 [FHD][H265]" tvg-logo="http://p6.vc/VTD" group-title="Canais | Premiere",PREMIERE 7 [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30290.ts
+#EXTINF:-1 tvg-id="BR - Premiere 7" tvg-name="PREMIERE 7 [HD]" tvg-logo="http://p6.vc/VSG" group-title="Canais | Premiere",PREMIERE 7 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/536.ts
+#EXTINF:-1 tvg-id="BR - Premiere 7" tvg-name="PREMIERE 7 [SD]" tvg-logo="http://p6.vc/AXZ" group-title="Canais | Premiere",PREMIERE 7 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/543.ts
+#EXTINF:-1 tvg-id="BR - Premiere Clubes HD" tvg-name="Premiere Club [4K]" tvg-logo="http://p6.vc/AZJ" group-title="Canais | 4K",Premiere Club [4K]
+http://cdn33.cc:80/ribeirinho/gs1200/584.ts
+#EXTINF:-1 tvg-id="BR - Premiere Clubes" tvg-name="PREMIERE CLUBES [FHD]" tvg-logo="http://p6.vc/AXI" group-title="Canais | Premiere",PREMIERE CLUBES [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/524.ts
+#EXTINF:-1 tvg-id="BR - Premiere Clubes" tvg-name="PREMIERE CLUBES [FHD][H265]" tvg-logo="http://p6.vc/VTA" group-title="Canais | Premiere",PREMIERE CLUBES [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30287.ts
+#EXTINF:-1 tvg-id="BR - Premiere Clubes" tvg-name="PREMIERE CLUBES [HD]" tvg-logo="http://p6.vc/AXT" group-title="Canais | Premiere",PREMIERE CLUBES [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/537.ts
+#EXTINF:-1 tvg-id="BR - Premiere Clubes" tvg-name="PREMIERE CLUBES [SD]" tvg-logo="http://p6.vc/AYA" group-title="Canais | Premiere",PREMIERE CLUBES [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/544.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Internacional" tvg-logo="http://p6.vc/AWN" group-title="Canais | Jogos & Eventos",Premiere Internacional
+http://cdn33.cc:80/ribeirinho/gs1200/501.ts
+#EXTINF:-1 tvg-id="BR - Prime Box Brazil" tvg-name="PRIME BOX BRASIL [FHD]" tvg-logo="http://p6.vc/AIU" group-title="Canais | Variedades",PRIME BOX BRASIL [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/104.ts
+#EXTINF:-1 tvg-id="BR - Prime Box Brazil" tvg-name="PRIME BOX BRASIL [FHD][H265]" tvg-logo="http://p6.vc/VMH" group-title="Canais | Variedades",PRIME BOX BRASIL [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30190.ts
+#EXTINF:-1 tvg-id="BR - Prime Box Brazil" tvg-name="PRIME BOX BRASIL [HD]" tvg-logo="http://p6.vc/AJC" group-title="Canais | Variedades",PRIME BOX BRASIL [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/113.ts
+#EXTINF:-1 tvg-id="BR - Prime Box Brazil" tvg-name="PRIME BOX BRASIL [SD]" tvg-logo="http://p6.vc/AJL" group-title="Canais | Variedades",PRIME BOX BRASIL [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/122.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: 24 Kitchen [SD]" tvg-logo="http://p6.vc/CTH3" group-title="Canais | Portugal",PT: 24 Kitchen [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223484.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: A Bola TV [HD]" tvg-logo="http://p6.vc/CTH4" group-title="Canais | Portugal",PT: A Bola TV [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/223485.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: A&E [FHD][H265]" tvg-logo="http://p6.vc/CTH5" group-title="Canais | Portugal",PT: A&E [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/223486.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Afro Music Channel [SD]" tvg-logo="http://p6.vc/CTH6" group-title="Canais | Portugal",PT: Afro Music Channel [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223487.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Alma Lusa [FHD]" tvg-logo="http://p6.vc/CTH7" group-title="Canais | Portugal",PT: Alma Lusa [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/223488.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC Break [SD]" tvg-logo="https://www.meo.pt/PublishingImages/canais/amc-break.png" group-title="Canais | Portugal",PT: AMC Break [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223490.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC Crime [FHD]" tvg-logo="http://p6.vc/CTH9" group-title="Canais | Portugal",PT: AMC Crime [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/223491.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC [FHD]" tvg-logo="http://p6.vc/CTH8" group-title="Canais | Portugal",PT: AMC [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/223489.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AR TV Canal Parlamento [SD]" tvg-logo="http://p6.vc/CTI0" group-title="Canais | Portugal",PT: AR TV Canal Parlamento [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223492.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN Movies [FHD]" tvg-logo="http://p6.vc/CTI2" group-title="Canais | Portugal",PT: AXN Movies [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/223494.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN White [SD]" tvg-logo="http://p6.vc/CTI3" group-title="Canais | Portugal",PT: AXN White [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223495.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN [HD]" tvg-logo="http://p6.vc/CTI1" group-title="Canais | Portugal",PT: AXN [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/223493.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Baby TV [SD]" tvg-logo="http://p6.vc/CTI4" group-title="Canais | Portugal",PT: Baby TV [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223496.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Benfica Experience [FHD]" tvg-logo="http://p6.vc/CTI5" group-title="Canais | Portugal",PT: Benfica Experience [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/223497.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Benfica TV [HD]" tvg-logo="http://p6.vc/CTI6" group-title="Canais | Portugal",PT: Benfica TV [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/223498.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Biggs [SD]" tvg-logo="http://p6.vc/CTI7" group-title="Canais | Portugal",PT: Biggs [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223499.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Blaze [SD]" tvg-logo="http://p6.vc/CTI8" group-title="Canais | Portugal",PT: Blaze [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223500.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Bloomberg [SD]" tvg-logo="http://p6.vc/CTI9" group-title="Canais | Portugal",PT: Bloomberg [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223501.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: BOM SOM [CANAL OFF]" tvg-logo="http://p6.vc/CTJ0" group-title="Canais | Portugal",PT: BOM SOM [CANAL OFF]
+http://cdn33.cc:80/ribeirinho/gs1200/223502.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Boomerang [HD]" tvg-logo="http://p6.vc/CTJ1" group-title="Canais | Portugal",PT: Boomerang [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/223503.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: C Music [SD]" tvg-logo="http://p6.vc/CTJ2" group-title="Canais | Portugal",PT: C Music [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223504.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Campo Pequeno [HD]" tvg-logo="http://p6.vc/CTJ3" group-title="Canais | Portugal",PT: Campo Pequeno [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/223505.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Canal 11 [HD]" tvg-logo="http://p6.vc/CTJ4" group-title="Canais | Portugal",PT: Canal 11 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/223506.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 180 [SD]" tvg-logo="http://p6.vc/CTJ5" group-title="Canais | Portugal",PT: CANAL 180 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223507.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Canal Hollywood [FHD]" tvg-logo="http://p6.vc/CTJ6" group-title="Canais | Portugal",PT: Canal Hollywood [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/223508.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Canal Nos [FHD]" tvg-logo="http://p6.vc/CTJ7" group-title="Canais | Portugal",PT: Canal Nos [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/223509.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Canal Panda [SD]" tvg-logo="http://p6.vc/CTJ8" group-title="Canais | Portugal",PT: Canal Panda [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223510.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Canal Q [SD]" tvg-logo="http://p6.vc/CTJ9" group-title="Canais | Portugal",PT: Canal Q [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223511.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Cancao Nova [SD]" tvg-logo="http://p6.vc/CTK0" group-title="Canais | Portugal",PT: Cancao Nova [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223512.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Cartoon Network [SD]" tvg-logo="http://p6.vc/CTK1" group-title="Canais | Portugal",PT: Cartoon Network [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223513.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Cartoonito [SD]" tvg-logo="http://p6.vc/CTK2" group-title="Canais | Portugal",PT: Cartoonito [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223514.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Casa e Cozinha [FHD]" tvg-logo="http://p6.vc/CTK3" group-title="Canais | Portugal",PT: Casa e Cozinha [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/223515.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Caza y Pesca [SD]" tvg-logo="http://p6.vc/CTK4" group-title="Canais | Portugal",PT: Caza y Pesca [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223516.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Caçavision [HD]" tvg-logo="http://cdn33.cc:80/images/3aca5b00c7cd4dd9888c9557e0533e8c.png" group-title="Canais | Portugal",PT: Caçavision [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/223517.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CBS Reality [SD]" tvg-logo="http://p6.vc/CTK5" group-title="Canais | Portugal",PT: CBS Reality [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223518.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Cine Mundo [SD]" tvg-logo="http://p6.vc/CTK6" group-title="Canais | Portugal",PT: Cine Mundo [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223519.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CM TV [HD]" tvg-logo="http://p6.vc/CTK7" group-title="Canais | Portugal",PT: CM TV [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/223520.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CNBC [SD]" tvg-logo="http://p6.vc/CTK8" group-title="Canais | Portugal",PT: CNBC [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223521.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CNN Portugal [FHD]" tvg-logo="http://p6.vc/CTK9" group-title="Canais | Portugal",PT: CNN Portugal [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/223522.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Crime District [FHD]" tvg-logo="http://p6.vc/CTL0" group-title="Canais | Portugal",PT: Crime District [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/223523.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Crime+ Investigation [SD]" tvg-logo="http://p6.vc/CTL1" group-title="Canais | Portugal",PT: Crime+ Investigation [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223524.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Discovery World [HD]" tvg-logo="http://p6.vc/CWT8" group-title="Canais | Portugal",PT: Discovery World [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/223525.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Disney Channel [SD]" tvg-logo="http://p6.vc/CWT9" group-title="Canais | Portugal",PT: Disney Channel [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223526.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Disney Junior [SD]" tvg-logo="http://p6.vc/CWU0" group-title="Canais | Portugal",PT: Disney Junior [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223527.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY MARVEL [CANAL OFF]" tvg-logo="http://p6.vc/CTL2" group-title="Canais | Portugal",PT: DISNEY MARVEL [CANAL OFF]
+http://cdn33.cc:80/ribeirinho/gs1200/223528.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY PIXAR [CANAL OFF]" tvg-logo="http://p6.vc/CWU1" group-title="Canais | Portugal",PT: DISNEY PIXAR [CANAL OFF]
+http://cdn33.cc:80/ribeirinho/gs1200/223529.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Disney+ [HD]" tvg-logo="http://p6.vc/CWU2" group-title="Canais | Portugal",PT: Disney+ [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/223537.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Dizi Channel [SD]" tvg-logo="http://p6.vc/CTL3" group-title="Canais | Portugal",PT: Dizi Channel [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223538.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DOG TV [HD]" tvg-logo="http://p6.vc/CTL4" group-title="Canais | Portugal",PT: DOG TV [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/223539.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: E! [HD]" tvg-logo="http://p6.vc/CWU3" group-title="Canais | Portugal",PT: E! [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/223540.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: euronews [SD]" tvg-logo="http://p6.vc/CTL5" group-title="Canais | Portugal",PT: euronews [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223541.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eurosport 1 [SD]" tvg-logo="http://p6.vc/CTL6" group-title="Canais | Portugal",PT: Eurosport 1 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223542.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eurosport 2 [HD]" tvg-logo="http://p6.vc/CTL7" group-title="Canais | Portugal",PT: Eurosport 2 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/223543.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FASHIONTV [FHD]" tvg-logo="http://p6.vc/CWU4" group-title="Canais | Portugal",PT: FASHIONTV [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/223544.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Fatima TV [FHD]" tvg-logo="http://p6.vc/CWU5" group-title="Canais | Portugal",PT: Fatima TV [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/223545.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FIREMAN SAM [HD]" tvg-logo="http://p6.vc/CWU6" group-title="Canais | Portugal",PT: FIREMAN SAM [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/223554.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Food Network [SD]" tvg-logo="http://p6.vc/CWU7" group-title="Canais | Portugal",PT: Food Network [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223555.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Fox Comedy [SD]" tvg-logo="http://p6.vc/CWU9" group-title="Canais | Portugal",PT: Fox Comedy [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223557.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Fox Crime [HD]" tvg-logo="http://p6.vc/CTL8" group-title="Canais | Portugal",PT: Fox Crime [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/223558.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Fox Life [FHD]" tvg-logo="http://p6.vc/CTL9" group-title="Canais | Portugal",PT: Fox Life [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/223559.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX Movies [HD]" tvg-logo="http://p6.vc/CWV0" group-title="Canais | Portugal",PT: FOX Movies [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/223560.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX [FHD]" tvg-logo="http://p6.vc/CWU8" group-title="Canais | Portugal",PT: FOX [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/223556.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Fuel TV [HD]" tvg-logo="http://p6.vc/CTM0" group-title="Canais | Portugal",PT: Fuel TV [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/223561.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: HGTV [FHD]" tvg-logo="http://p6.vc/CWV1" group-title="Canais | Portugal",PT: HGTV [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/223562.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Historia [SD]" tvg-logo="http://p6.vc/CTM1" group-title="Canais | Portugal",PT: Historia [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223563.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Investigation Discovery [SD]" tvg-logo="http://p6.vc/CWV2" group-title="Canais | Portugal",PT: Investigation Discovery [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223564.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: JimJam [SD]" tvg-logo="http://p6.vc/CWV3" group-title="Canais | Portugal",PT: JimJam [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223565.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Kuriakos Kids [FHD]" tvg-logo="http://p6.vc/CWV4" group-title="Canais | Portugal",PT: Kuriakos Kids [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/223566.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Kuriakos TV [FHD]" tvg-logo="https://www.meo.pt/PublishingImages/canais/kuriakos.png" group-title="Canais | Portugal",PT: Kuriakos TV [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/223567.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Local visão [HD]" tvg-logo="http://p6.vc/CWV5" group-title="Canais | Portugal",PT: Local visão [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/223568.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: MCM POP [SD]" tvg-logo="http://p6.vc/CWV6" group-title="Canais | Portugal",PT: MCM POP [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223569.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: MCM TOP [CANAL OFF]" tvg-logo="http://p6.vc/CWV7" group-title="Canais | Portugal",PT: MCM TOP [CANAL OFF]
+http://cdn33.cc:80/ribeirinho/gs1200/223570.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: MEO Destaques [SD]" tvg-logo="https://www.meo.pt/PublishingImages/canais/meo-destaques.png" group-title="Canais | Portugal",PT: MEO Destaques [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223571.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: MEO Videoclube [SD]" tvg-logo="https://www.meo.pt/PublishingImages/canais/meo-videoclube.png" group-title="Canais | Portugal",PT: MEO Videoclube [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223572.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Motorvision TV [SD]" tvg-logo="http://p6.vc/CTM2" group-title="Canais | Portugal",PT: Motorvision TV [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223573.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: MTV 00s [SD]" tvg-logo="https://www.meo.pt/PublishingImages/canais/mtv00s.png" group-title="Canais | Portugal",PT: MTV 00s [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223574.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: MTV Live [FHD]" tvg-logo="https://www.meo.pt/PublishingImages/canais/mtv-live-hd.png" group-title="Canais | Portugal",PT: MTV Live [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/223575.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: MTV Portugal [SD]" tvg-logo="https://www.meo.pt/PublishingImages/canais/mtv-portugal-hd.png" group-title="Canais | Portugal",PT: MTV Portugal [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223576.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO Wild [HD]" tvg-logo="http://p6.vc/CWV8" group-title="Canais | Portugal",PT: NAT GEO Wild [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/223578.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO [FHD]" tvg-logo="http://p6.vc/CTM3" group-title="Canais | Portugal",PT: NAT GEO [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/223577.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: NBA TV [HD]" tvg-logo="http://p6.vc/CWV9" group-title="Canais | Portugal",PT: NBA TV [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/223579.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Netflix Kids [HD]" tvg-logo="http://p6.vc/CWW0" group-title="Canais | Portugal",PT: Netflix Kids [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/223580.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Nick Junior [SD]" tvg-logo="http://p6.vc/CWW1" group-title="Canais | Portugal",PT: Nick Junior [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223581.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: nickelodeon [SD]" tvg-logo="http://p6.vc/CTM4" group-title="Canais | Portugal",PT: nickelodeon [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223582.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Nos Studios [HD]" tvg-logo="http://p6.vc/CWW2" group-title="Canais | Portugal",PT: Nos Studios [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/223583.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Odisseia [SD]" tvg-logo="http://p6.vc/CTM5" group-title="Canais | Portugal",PT: Odisseia [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223584.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: OPTO [FHD]" tvg-logo="http://p6.vc/CTM6" group-title="Canais | Portugal",PT: OPTO [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/223585.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: PANDA Kids [SD]" tvg-logo="http://p6.vc/CTM7" group-title="Canais | Portugal",PT: PANDA Kids [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223586.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Porto Canal [FHD]" tvg-logo="http://p6.vc/CTM8" group-title="Canais | Portugal",PT: Porto Canal [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/223587.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Queens United TV [SD]" tvg-logo="http://p6.vc/CWW3" group-title="Canais | Portugal",PT: Queens United TV [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223588.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Record TV [FHD]" tvg-logo="http://p6.vc/CTM9" group-title="Canais | Portugal",PT: Record TV [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/223589.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 [FHD]" tvg-logo="http://p6.vc/CTN0" group-title="Canais | Portugal",PT: RTP 1 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/223590.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2 [SD]" tvg-logo="http://p6.vc/CTN1" group-title="Canais | Portugal",PT: RTP 2 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223591.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 3 [FHD]" tvg-logo="http://p6.vc/CTN2" group-title="Canais | Portugal",PT: RTP 3 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/223592.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP Arena [FHD]" tvg-logo="http://p6.vc/CWW4" group-title="Canais | Portugal",PT: RTP Arena [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/223593.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP Açores [SD]" tvg-logo="http://p6.vc/CWW5" group-title="Canais | Portugal",PT: RTP Açores [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223594.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP Internacional [SD]" tvg-logo="http://p6.vc/CWW6" group-title="Canais | Portugal",PT: RTP Internacional [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223595.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP Madeira [SD]" tvg-logo="http://p6.vc/CWW7" group-title="Canais | Portugal",PT: RTP Madeira [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223596.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP Memória [SD]" tvg-logo="http://p6.vc/CWW8" group-title="Canais | Portugal",PT: RTP Memória [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223597.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP África [SD]" tvg-logo="http://p6.vc/CTN3" group-title="Canais | Portugal",PT: RTP África [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223598.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SAUDE+ [FHD]" tvg-logo="http://p6.vc/CWW9" group-title="Canais | Portugal",PT: SAUDE+ [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/223599.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Caras [FHD]" tvg-logo="http://p6.vc/CTN5" group-title="Canais | Portugal",PT: SIC Caras [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/223601.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Internacional [FHD][H265]" tvg-logo="http://p6.vc/CTN6" group-title="Canais | Portugal",PT: SIC Internacional [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/223602.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC K [SD]" tvg-logo="http://p6.vc/CTN7" group-title="Canais | Portugal",PT: SIC K [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223603.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Mulher [FHD]" tvg-logo="http://p6.vc/CTN8" group-title="Canais | Portugal",PT: SIC Mulher [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/223604.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Noticias [HD]" tvg-logo="http://p6.vc/CTN9" group-title="Canais | Portugal",PT: SIC Noticias [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/223605.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Novelas [FHD]" tvg-logo="http://p6.vc/CTO0" group-title="Canais | Portugal",PT: SIC Novelas [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/223606.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Radical [SD]" tvg-logo="http://p6.vc/CTO1" group-title="Canais | Portugal",PT: SIC Radical [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223607.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC [HD]" tvg-logo="http://p6.vc/CTN4" group-title="Canais | Portugal",PT: SIC [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/223600.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Star Channel [CANAL OFF]" tvg-logo="http://p6.vc/CWX0" group-title="Canais | Portugal",PT: Star Channel [CANAL OFF]
+http://cdn33.cc:80/ribeirinho/gs1200/223608.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Star Comedy [CANAL OFF]" tvg-logo="http://p6.vc/CTO2" group-title="Canais | Portugal",PT: Star Comedy [CANAL OFF]
+http://cdn33.cc:80/ribeirinho/gs1200/223609.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Star Crime [CANAL OFF]" tvg-logo="" group-title="Canais | Portugal",PT: Star Crime [CANAL OFF]
+http://cdn33.cc:80/ribeirinho/gs1200/223610.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Star Life [CANAL OFF]" tvg-logo="http://p6.vc/CWX1" group-title="Canais | Portugal",PT: Star Life [CANAL OFF]
+http://cdn33.cc:80/ribeirinho/gs1200/223611.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Star Movies [CANAL OFF]" tvg-logo="" group-title="Canais | Portugal",PT: Star Movies [CANAL OFF]
+http://cdn33.cc:80/ribeirinho/gs1200/223612.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY Portugal [SD]" tvg-logo="http://p6.vc/CTO3" group-title="Canais | Portugal",PT: SYFY Portugal [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223613.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TCV Internacional [CANAL OFF]" tvg-logo="http://p6.vc/CTO4" group-title="Canais | Portugal",PT: TCV Internacional [CANAL OFF]
+http://cdn33.cc:80/ribeirinho/gs1200/223614.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TLC [HD]" tvg-logo="http://p6.vc/CTO5" group-title="Canais | Portugal",PT: TLC [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/223615.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TPA Notícias [SD]" tvg-logo="http://p6.vc/CTO6" group-title="Canais | Portugal",PT: TPA Notícias [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223616.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Trace Brasil [HD]" tvg-logo="http://p6.vc/CTO7" group-title="Canais | Portugal",PT: Trace Brasil [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/223617.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Trace Latina [FHD][H265]" tvg-logo="http://p6.vc/CTO8" group-title="Canais | Portugal",PT: Trace Latina [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/223618.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Trace Urban [SD]" tvg-logo="https://www.meo.pt/PublishingImages/canais/trace-urban.png" group-title="Canais | Portugal",PT: Trace Urban [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223619.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Travel Channel [SD]" tvg-logo="http://p6.vc/CTO9" group-title="Canais | Portugal",PT: Travel Channel [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223620.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Travelxp [FHD]" tvg-logo="http://p6.vc/CTP0" group-title="Canais | Portugal",PT: Travelxp [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/223621.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV Mana 1 [HD]" tvg-logo="http://p6.vc/CTP1" group-title="Canais | Portugal",PT: TV Mana 1 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/223622.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Action [FHD]" tvg-logo="http://p6.vc/CTP2" group-title="Canais | Portugal",PT: TVCine Action [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/223623.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Edition [HD]" tvg-logo="http://p6.vc/CTP3" group-title="Canais | Portugal",PT: TVCine Edition [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/223624.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Emotion [HD]" tvg-logo="http://p6.vc/CTP4" group-title="Canais | Portugal",PT: TVCine Emotion [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/223625.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Top [HD]" tvg-logo="http://p6.vc/CTP5" group-title="Canais | Portugal",PT: TVCine Top [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/223626.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Africa [CANAL OFF]" tvg-logo="http://p6.vc/CTP7" group-title="Canais | Portugal",PT: TVI Africa [CANAL OFF]
+http://cdn33.cc:80/ribeirinho/gs1200/223628.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Ficção [FHD]" tvg-logo="http://p6.vc/CTP8" group-title="Canais | Portugal",PT: TVI Ficção [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/223629.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Reality [SD]" tvg-logo="http://p6.vc/CTP9" group-title="Canais | Portugal",PT: TVI Reality [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223630.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI [SD]" tvg-logo="http://p6.vc/CTP6" group-title="Canais | Portugal",PT: TVI [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/223627.ts
+#EXTINF:-1 tvg-id="W-Sport.pt" tvg-name="PT: W-Sport [FHD]" tvg-logo="http://p6.vc/CTQ0" group-title="Canais | Portugal",PT: W-Sport [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/223631.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: WWE NETWORK [HD]" tvg-logo="http://p6.vc/CTQ1" group-title="Canais | Portugal",PT: WWE NETWORK [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/223632.ts
+#EXTINF:-1 tvg-id="BR - Record News HD" tvg-name="RECORD NEWS [FHD]" tvg-logo="http://p6.vc/AWX" group-title="Canais | Notícias",RECORD NEWS [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/511.ts
+#EXTINF:-1 tvg-id="BR - Record News HD" tvg-name="RECORD NEWS [FHD][H265]" tvg-logo="http://p6.vc/VNC" group-title="Canais | Notícias",RECORD NEWS [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30197.ts
+#EXTINF:-1 tvg-id="BR - Record News HD" tvg-name="RECORD NEWS [HD]" tvg-logo="http://p6.vc/VMU" group-title="Canais | Notícias",RECORD NEWS [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/515.ts
+#EXTINF:-1 tvg-id="BR - Record News HD" tvg-name="RECORD NEWS [SD]" tvg-logo="http://p6.vc/AXF" group-title="Canais | Notícias",RECORD NEWS [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/521.ts
+#EXTINF:-1 tvg-id="BR - RecordTV São Paulo HD" tvg-name="RecordTV SP [4K]" tvg-logo="http://p6.vc/AZI" group-title="Canais | 4K",RecordTV SP [4K]
+http://cdn33.cc:80/ribeirinho/gs1200/583.ts
+#EXTINF:-1 tvg-id="BR - Record TV" tvg-name="RECORDTV SP [FHD]" tvg-logo="http://p6.vc/AGQ" group-title="Canais | Abertos",RECORDTV SP [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/45.ts
+#EXTINF:-1 tvg-id="BR - RecordTV São Paulo HD" tvg-name="RECORDTV SP [FHD][H265]" tvg-logo="http://p6.vc/VAY" group-title="Canais | Abertos",RECORDTV SP [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30178.ts
+#EXTINF:-1 tvg-id="BR - Record TV" tvg-name="RECORDTV SP [HD]" tvg-logo="http://p6.vc/AGW" group-title="Canais | Abertos",RECORDTV SP [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/52.ts
+#EXTINF:-1 tvg-id="BR - Record TV" tvg-name="RECORDTV SP [SD]" tvg-logo="http://p6.vc/AHK" group-title="Canais | Abertos",RECORDTV SP [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/67.ts
+#EXTINF:-1 tvg-id="BR - Rede Brasil" tvg-name="REDE BRASIL [SD]" tvg-logo="http://p6.vc/AIE" group-title="Canais | Abertos",REDE BRASIL [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/87.ts
+#EXTINF:-1 tvg-id="BR - Rede Vida" tvg-name="REDE VIDA [FHD]" tvg-logo="http://p6.vc/VPR" group-title="Canais | Religiosos",REDE VIDA [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/545.ts
+#EXTINF:-1 tvg-id="BR - Rede Vida" tvg-name="REDE VIDA [HD]" tvg-logo="http://p6.vc/AYC" group-title="Canais | Religiosos",REDE VIDA [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/547.ts
+#EXTINF:-1 tvg-id="BR - Rede Vida" tvg-name="REDE VIDA [SD]" tvg-logo="http://p6.vc/AYF" group-title="Canais | Religiosos",REDE VIDA [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/551.ts
+#EXTINF:-1 tvg-id="BR - RedeTV!" tvg-name="REDETV! [FHD]" tvg-logo="http://p6.vc/AGS" group-title="Canais | Abertos",REDETV! [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/48.ts
+#EXTINF:-1 tvg-id="BR - RedeTV!" tvg-name="REDETV! [FHD][H265]" tvg-logo="http://p6.vc/VAZ" group-title="Canais | Abertos",REDETV! [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30180.ts
+#EXTINF:-1 tvg-id="BR - RedeTV!" tvg-name="REDETV! [HD]" tvg-logo="http://p6.vc/AGY" group-title="Canais | Abertos",REDETV! [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/54.ts
+#EXTINF:-1 tvg-id="BR - RedeTV!" tvg-name="REDETV! [SD]" tvg-logo="http://p6.vc/AHM" group-title="Canais | Abertos",REDETV! [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/69.ts
+#EXTINF:-1 tvg-id="Sabor & Arte" tvg-name="SABOR E ARTE [FHD]" tvg-logo="" group-title="Canais | Art & Music",SABOR E ARTE [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/127312.ts
+#EXTINF:-1 tvg-id="Sabor & Arte" tvg-name="SABOR E ARTE [HD]" tvg-logo="" group-title="Canais | Art & Music",SABOR E ARTE [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/127311.ts
+#EXTINF:-1 tvg-id="BR - SBT" tvg-name="SBT SP [4K]" tvg-logo="http://p6.vc/AZL" group-title="Canais | 4K",SBT SP [4K]
+http://cdn33.cc:80/ribeirinho/gs1200/587.ts
+#EXTINF:-1 tvg-id="BR - SBT" tvg-name="SBT SP [FHD]" tvg-logo="http://p6.vc/VBQ" group-title="Canais | Abertos",SBT SP [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/46.ts
+#EXTINF:-1 tvg-id="BR - SBT" tvg-name="SBT SP [HD]" tvg-logo="http://p6.vc/AGZ" group-title="Canais | Abertos",SBT SP [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/55.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP [SD]" tvg-logo="http://p6.vc/VBQ" group-title="Canais | Abertos",SBT SP [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/174142.ts
+#EXTINF:-1 tvg-id="BR - SBT" tvg-name="SBT [FHD][H265]" tvg-logo="http://p6.vc/VBS" group-title="Canais | Abertos",SBT [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30179.ts
+#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT [HD]" tvg-logo="http://p6.vc/AHN" group-title="Canais | Abertos",SBT [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/199660.ts
+#EXTINF:-1 tvg-id="BR - SBT" tvg-name="SBT [SD]" tvg-logo="http://p6.vc/AHN" group-title="Canais | Abertos",SBT [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/70.ts
+#EXTINF:-1 tvg-id="BR - Sony" tvg-name="SONY CHANNEL [FHD]" tvg-logo="http://p6.vc/AOX" group-title="Canais | Filmes e Séries",SONY CHANNEL [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/274.ts
+#EXTINF:-1 tvg-id="BR - Sony" tvg-name="SONY CHANNEL [FHD][H265]" tvg-logo="http://p6.vc/WJN" group-title="Canais | Filmes e Séries",SONY CHANNEL [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30216.ts
+#EXTINF:-1 tvg-id="BR - Sony" tvg-name="SONY CHANNEL [HD]" tvg-logo="http://p6.vc/APY" group-title="Canais | Filmes e Séries",SONY CHANNEL [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/302.ts
+#EXTINF:-1 tvg-id="BR - Sony" tvg-name="SONY CHANNEL [HD] LEG" tvg-logo="http://p6.vc/eLa" group-title="Canais | Legendados",SONY CHANNEL [HD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123518.ts
+#EXTINF:-1 tvg-id="BR - Sony" tvg-name="SONY CHANNEL [SD]" tvg-logo="http://p6.vc/AQU" group-title="Canais | Filmes e Séries",SONY CHANNEL [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/327.ts
+#EXTINF:-1 tvg-id="BR - Sony" tvg-name="SONY CHANNEL [SD] LEG" tvg-logo="http://p6.vc/eLa" group-title="Canais | Legendados",SONY CHANNEL [SD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123519.ts
+#EXTINF:-1 tvg-id="BR - Space" tvg-name="SPACE [FHD]" tvg-logo="http://p6.vc/APF" group-title="Canais | Filmes e Séries",SPACE [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/282.ts
+#EXTINF:-1 tvg-id="BR - Space" tvg-name="SPACE [FHD] [LEG]" tvg-logo="http://p6.vc/WIO" group-title="Canais | Legendados",SPACE [FHD] [LEG]
+http://cdn33.cc:80/ribeirinho/gs1200/169116.ts
+#EXTINF:-1 tvg-id="BR - Space" tvg-name="SPACE [FHD][H265]" tvg-logo="http://p6.vc/WHA" group-title="Canais | Filmes e Séries",SPACE [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30214.ts
+#EXTINF:-1 tvg-id="BR - Space" tvg-name="SPACE [HD]" tvg-logo="http://p6.vc/AQI" group-title="Canais | Filmes e Séries",SPACE [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/313.ts
+#EXTINF:-1 tvg-id="BR - Space" tvg-name="SPACE [HD] LEG" tvg-logo="http://p6.vc/WIN" group-title="Canais | Legendados",SPACE [HD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123512.ts
+#EXTINF:-1 tvg-id="BR - Space" tvg-name="SPACE [SD]" tvg-logo="http://p6.vc/WGV" group-title="Canais | Filmes e Séries",SPACE [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/338.ts
+#EXTINF:-1 tvg-id="BR - Space" tvg-name="SPACE [SD] LEG" tvg-logo="http://p6.vc/WIO" group-title="Canais | Legendados",SPACE [SD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123513.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA [HD]" tvg-logo="http://p6.vc/VLF" group-title="Canais | Jogos & Eventos",SPORT ITALIA [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/93624.ts
+#EXTINF:-1 tvg-id="BR - SporTV2" tvg-name="SPORTV 2 [FHD]" tvg-logo="http://p6.vc/AYH" group-title="Canais | SporTV",SPORTV 2 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/553.ts
+#EXTINF:-1 tvg-id="BR - SporTV2" tvg-name="SPORTV 2 [FHD][H265]" tvg-logo="http://p6.vc/WHV" group-title="Canais | SporTV",SPORTV 2 [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30291.ts
+#EXTINF:-1 tvg-id="BR - SporTV2" tvg-name="SPORTV 2 [HD]" tvg-logo="http://p6.vc/AYK" group-title="Canais | SporTV",SPORTV 2 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/557.ts
+#EXTINF:-1 tvg-id="BR - SporTV2" tvg-name="SPORTV 2 [SD]" tvg-logo="http://p6.vc/AYN" group-title="Canais | SporTV",SPORTV 2 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/560.ts
+#EXTINF:-1 tvg-id="BR - SporTV3" tvg-name="SPORTV 3 [FHD]" tvg-logo="http://p6.vc/WGW" group-title="Canais | SporTV",SPORTV 3 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/554.ts
+#EXTINF:-1 tvg-id="BR - SporTV3" tvg-name="SPORTV 3 [FHD][H265]" tvg-logo="http://p6.vc/WHW" group-title="Canais | SporTV",SPORTV 3 [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30292.ts
+#EXTINF:-1 tvg-id="BR - SporTV3" tvg-name="SPORTV 3 [HD]" tvg-logo="http://p6.vc/AYL" group-title="Canais | SporTV",SPORTV 3 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/558.ts
+#EXTINF:-1 tvg-id="BR - SporTV3" tvg-name="SPORTV 3 [SD]" tvg-logo="http://p6.vc/AYL" group-title="Canais | SporTV",SPORTV 3 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/561.ts
+#EXTINF:-1 tvg-id="BR - SporTV" tvg-name="SporTV [4K]" tvg-logo="http://p6.vc/7" group-title="Canais | 4K",SporTV [4K]
+http://cdn33.cc:80/ribeirinho/gs1200/589.ts
+#EXTINF:-1 tvg-id="BR - SporTV" tvg-name="SPORTV [FHD]" tvg-logo="http://p6.vc/AYI" group-title="Canais | SporTV",SPORTV [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/555.ts
+#EXTINF:-1 tvg-id="BR - SporTV" tvg-name="SPORTV [FHD][H265]" tvg-logo="http://p6.vc/WHX" group-title="Canais | SporTV",SPORTV [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30293.ts
+#EXTINF:-1 tvg-id="BR - SporTV" tvg-name="SPORTV [HD]" tvg-logo="http://p6.vc/AYJ" group-title="Canais | SporTV",SPORTV [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/556.ts
+#EXTINF:-1 tvg-id="BR - SporTV" tvg-name="SPORTV [SD]" tvg-logo="http://p6.vc/AYM" group-title="Canais | SporTV",SPORTV [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/559.ts
+#EXTINF:-1 tvg-id="STAR Channel" tvg-name="Star Channel [4K]" tvg-logo="http://p6.vc/eLn" group-title="Canais | 4K",Star Channel [4K]
+http://cdn33.cc:80/ribeirinho/gs1200/5346.ts
+#EXTINF:-1 tvg-id="STAR.Channel.br" tvg-name="STAR CHANNEL [FHD]" tvg-logo="http://p6.vc/APP" group-title="Canais | Filmes e Séries",STAR CHANNEL [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/292.ts
+#EXTINF:-1 tvg-id="STAR Channel" tvg-name="STAR CHANNEL [FHD] LEG" tvg-logo="http://p6.vc/eLn" group-title="Canais | Legendados",STAR CHANNEL [FHD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123484.ts
+#EXTINF:-1 tvg-id="STAR.Channel.br" tvg-name="STAR CHANNEL [FHD][H265]" tvg-logo="http://p6.vc/WJM" group-title="Canais | Filmes e Séries",STAR CHANNEL [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30207.ts
+#EXTINF:-1 tvg-id="STAR.Channel.br" tvg-name="STAR CHANNEL [HD]" tvg-logo="http://p6.vc/AQA" group-title="Canais | Filmes e Séries",STAR CHANNEL [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/304.ts
+#EXTINF:-1 tvg-id="STAR Channel" tvg-name="STAR CHANNEL [HD] LEG" tvg-logo="http://p6.vc/eLn" group-title="Canais | Legendados",STAR CHANNEL [HD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/122975.ts
+#EXTINF:-1 tvg-id="STAR.Channel.br" tvg-name="STAR CHANNEL [SD]" tvg-logo="http://p6.vc/AQW" group-title="Canais | Filmes e Séries",STAR CHANNEL [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/329.ts
+#EXTINF:-1 tvg-id="STAR Channel" tvg-name="STAR CHANNEL [SD] LEG" tvg-logo="http://p6.vc/eLn" group-title="Canais | Legendados",STAR CHANNEL [SD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123122.ts
+#EXTINF:-1 tvg-id="Studio.Universal.br" tvg-name="STUDIO UNIVERSAL [FHD]" tvg-logo="http://p6.vc/APG" group-title="Canais | Filmes e Séries",STUDIO UNIVERSAL [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/283.ts
+#EXTINF:-1 tvg-id="BR - Studio Universal" tvg-name="STUDIO UNIVERSAL [FHD][H265]" tvg-logo="http://p6.vc/WHD" group-title="Canais | Filmes e Séries",STUDIO UNIVERSAL [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30221.ts
+#EXTINF:-1 tvg-id="BR - Studio Universal" tvg-name="STUDIO UNIVERSAL [HD]" tvg-logo="http://p6.vc/WGU" group-title="Canais | Filmes e Séries",STUDIO UNIVERSAL [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/320.ts
+#EXTINF:-1 tvg-id="BR - Studio Universal" tvg-name="STUDIO UNIVERSAL [SD]" tvg-logo="http://p6.vc/ARM" group-title="Canais | Filmes e Séries",STUDIO UNIVERSAL [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/346.ts
+#EXTINF:-1 tvg-id="BR - Syfy" tvg-name="SYFY [FHD]" tvg-logo="http://p6.vc/APH" group-title="Canais | Filmes e Séries",SYFY [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/284.ts
+#EXTINF:-1 tvg-id="BR - Syfy" tvg-name="SYFY [FHD][H265]" tvg-logo="http://p6.vc/WHE" group-title="Canais | Filmes e Séries",SYFY [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30222.ts
+#EXTINF:-1 tvg-id="BR - Syfy" tvg-name="SYFY [HD]" tvg-logo="http://p6.vc/AQH" group-title="Canais | Filmes e Séries",SYFY [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/312.ts
+#EXTINF:-1 tvg-id="BR - Syfy" tvg-name="SYFY [SD]" tvg-logo="http://p6.vc/ARE" group-title="Canais | Filmes e Séries",SYFY [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/337.ts
+#EXTINF:-1 tvg-id="BR - TBS" tvg-name="TBS [FHD]" tvg-logo="http://p6.vc/API" group-title="Canais | Filmes e Séries",TBS [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/285.ts
+#EXTINF:-1 tvg-id="BR - TBS" tvg-name="TBS [FHD][H265]" tvg-logo="http://p6.vc/WHF" group-title="Canais | Filmes e Séries",TBS [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30223.ts
+#EXTINF:-1 tvg-id="BR - TBS" tvg-name="TBS [HD]" tvg-logo="http://p6.vc/AQO" group-title="Canais | Filmes e Séries",TBS [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/321.ts
+#EXTINF:-1 tvg-id="BR - TBS" tvg-name="TBS [SD]" tvg-logo="http://p6.vc/ARN" group-title="Canais | Filmes e Séries",TBS [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/347.ts
+#EXTINF:-1 tvg-id="BR - TCM" tvg-name="TCM [SD]" tvg-logo="http://p6.vc/ARF" group-title="Canais | Filmes e Séries",TCM [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/339.ts
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action [4K]" tvg-logo="http://p6.vc/VTR" group-title="Canais | 4K",Telecine Action [4K]
+http://cdn33.cc:80/ribeirinho/gs1200/50871.ts
+#EXTINF:-1 tvg-id="BR - Telecine Action" tvg-name="TELECINE ACTION [FHD]" tvg-logo="http://p6.vc/AYP" group-title="Canais | Telecine",TELECINE ACTION [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/562.ts
+#EXTINF:-1 tvg-id="BR - Telecine Action" tvg-name="TELECINE ACTION [FHD] LEG" tvg-logo="http://p6.vc/VWH" group-title="Canais | Legendados",TELECINE ACTION [FHD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123550.ts
+#EXTINF:-1 tvg-id="Telecine.Action.HD.br" tvg-name="TELECINE ACTION [FHD][H265]" tvg-logo="http://p6.vc/VSQ" group-title="Canais | Telecine",TELECINE ACTION [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30242.ts
+#EXTINF:-1 tvg-id="Telecine.Action.HD.br" tvg-name="TELECINE ACTION [HD]" tvg-logo="http://p6.vc/AYV" group-title="Canais | Telecine",TELECINE ACTION [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/568.ts
+#EXTINF:-1 tvg-id="BR - Telecine Action" tvg-name="TELECINE ACTION [HD] LEG" tvg-logo="http://p6.vc/VVT" group-title="Canais | Legendados",TELECINE ACTION [HD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123494.ts
+#EXTINF:-1 tvg-id="BR - Telecine Action" tvg-name="TELECINE ACTION [SD]" tvg-logo="http://p6.vc/AZB" group-title="Canais | Telecine",TELECINE ACTION [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/574.ts
+#EXTINF:-1 tvg-id="BR - Telecine Action" tvg-name="TELECINE ACTION [SD] LEG" tvg-logo="http://p6.vc/VVU" group-title="Canais | Legendados",TELECINE ACTION [SD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123495.ts
+#EXTINF:-1 tvg-id="Telecine.Cult.HD.br" tvg-name="TELECINE CULT [FHD]" tvg-logo="http://p6.vc/AYU" group-title="Canais | Telecine",TELECINE CULT [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/567.ts
+#EXTINF:-1 tvg-id="BR - Telecine Cult" tvg-name="TELECINE CULT [FHD] LEG" tvg-logo="http://p6.vc/VWK" group-title="Canais | Legendados",TELECINE CULT [FHD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123553.ts
+#EXTINF:-1 tvg-id="Cultura.HD.br" tvg-name="TELECINE CULT [FHD][H265]" tvg-logo="http://p6.vc/VSR" group-title="Canais | Telecine",TELECINE CULT [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30243.ts
+#EXTINF:-1 tvg-id="Telecine.Cult.HD.br" tvg-name="TELECINE CULT [HD]" tvg-logo="http://p6.vc/AYW" group-title="Canais | Telecine",TELECINE CULT [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/569.ts
+#EXTINF:-1 tvg-id="BR - Telecine Cult" tvg-name="TELECINE CULT [HD] LEG" tvg-logo="http://p6.vc/VWE" group-title="Canais | Legendados",TELECINE CULT [HD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123542.ts
+#EXTINF:-1 tvg-id="Telecine.Cult.HD.br" tvg-name="TELECINE CULT [SD]" tvg-logo="http://p6.vc/AZC" group-title="Canais | Telecine",TELECINE CULT [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/575.ts
+#EXTINF:-1 tvg-id="BR - Telecine Cult" tvg-name="TELECINE CULT [SD] LEG" tvg-logo="http://p6.vc/VWD" group-title="Canais | Legendados",TELECINE CULT [SD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123541.ts
+#EXTINF:-1 tvg-id="BR - Telecine Fun" tvg-name="TELECINE FUN [FHD]" tvg-logo="http://p6.vc/AYQ" group-title="Canais | Telecine",TELECINE FUN [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/563.ts
+#EXTINF:-1 tvg-id="BR - Telecine Fun" tvg-name="TELECINE FUN [FHD] LEG" tvg-logo="http://p6.vc/VWJ" group-title="Canais | Legendados",TELECINE FUN [FHD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123552.ts
+#EXTINF:-1 tvg-id="BR - Telecine Fun" tvg-name="TELECINE FUN [FHD][H265]" tvg-logo="http://p6.vc/VSS" group-title="Canais | Telecine",TELECINE FUN [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30244.ts
+#EXTINF:-1 tvg-id="BR - Telecine Fun" tvg-name="TELECINE FUN [HD]" tvg-logo="http://p6.vc/AYX" group-title="Canais | Telecine",TELECINE FUN [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/570.ts
+#EXTINF:-1 tvg-id="BR - Telecine Fun" tvg-name="TELECINE FUN [HD] LEG" tvg-logo="http://p6.vc/VVV" group-title="Canais | Legendados",TELECINE FUN [HD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123496.ts
+#EXTINF:-1 tvg-id="Telecine.Fun.HD.br" tvg-name="TELECINE FUN [SD]" tvg-logo="http://p6.vc/AZD" group-title="Canais | Telecine",TELECINE FUN [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/576.ts
+#EXTINF:-1 tvg-id="BR - Telecine Fun" tvg-name="TELECINE FUN [SD] LEG" tvg-logo="http://p6.vc/VVW" group-title="Canais | Legendados",TELECINE FUN [SD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123497.ts
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca [4K]" tvg-logo="http://p6.vc/VSJ" group-title="Canais | 4K",Telecine Pipoca [4K]
+http://cdn33.cc:80/ribeirinho/gs1200/5345.ts
+#EXTINF:-1 tvg-id="BR - Telecine Pipoca" tvg-name="TELECINE PIPOCA [FHD]" tvg-logo="http://p6.vc/AYR" group-title="Canais | Telecine",TELECINE PIPOCA [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/564.ts
+#EXTINF:-1 tvg-id="BR - Telecine Pipoca" tvg-name="TELECINE PIPOCA [FHD] LEG" tvg-logo="http://p6.vc/VWF" group-title="Canais | Legendados",TELECINE PIPOCA [FHD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123548.ts
+#EXTINF:-1 tvg-id="Telecine.Pipoca.HD.br" tvg-name="TELECINE PIPOCA [FHD][H265]" tvg-logo="http://p6.vc/VST" group-title="Canais | Telecine",TELECINE PIPOCA [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30245.ts
+#EXTINF:-1 tvg-id="BR - Telecine Pipoca" tvg-name="TELECINE PIPOCA [HD]" tvg-logo="http://p6.vc/AYZ" group-title="Canais | Telecine",TELECINE PIPOCA [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/572.ts
+#EXTINF:-1 tvg-id="BR - Telecine Pipoca" tvg-name="TELECINE PIPOCA [HD] LEG" tvg-logo="http://p6.vc/VVX" group-title="Canais | Legendados",TELECINE PIPOCA [HD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123498.ts
+#EXTINF:-1 tvg-id="BR - Telecine Pipoca" tvg-name="TELECINE PIPOCA [SD]" tvg-logo="http://p6.vc/AZF" group-title="Canais | Telecine",TELECINE PIPOCA [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/578.ts
+#EXTINF:-1 tvg-id="BR - Telecine Pipoca" tvg-name="TELECINE PIPOCA [SD] LEG" tvg-logo="http://p6.vc/VVY" group-title="Canais | Legendados",TELECINE PIPOCA [SD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123499.ts
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium [4K]" tvg-logo="http://p6.vc/AZV" group-title="Canais | 4K",Telecine Premium [4K]
+http://cdn33.cc:80/ribeirinho/gs1200/597.ts
+#EXTINF:-1 tvg-id="BR - Telecine Premium" tvg-name="TELECINE PREMIUM [FHD]" tvg-logo="http://p6.vc/AYS" group-title="Canais | Telecine",TELECINE PREMIUM [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/565.ts
+#EXTINF:-1 tvg-id="BR - Telecine Premium" tvg-name="TELECINE PREMIUM [FHD] LEG" tvg-logo="http://p6.vc/VWG" group-title="Canais | Legendados",TELECINE PREMIUM [FHD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123549.ts
+#EXTINF:-1 tvg-id="BR - Telecine Premium" tvg-name="TELECINE PREMIUM [FHD][H265]" tvg-logo="http://p6.vc/VSU" group-title="Canais | Telecine",TELECINE PREMIUM [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30246.ts
+#EXTINF:-1 tvg-id="BR - Telecine Premium" tvg-name="TELECINE PREMIUM [HD]" tvg-logo="http://p6.vc/AZA" group-title="Canais | Telecine",TELECINE PREMIUM [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/573.ts
+#EXTINF:-1 tvg-id="BR - Telecine Premium" tvg-name="TELECINE PREMIUM [HD] LEG" tvg-logo="http://p6.vc/VVZ" group-title="Canais | Legendados",TELECINE PREMIUM [HD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123500.ts
+#EXTINF:-1 tvg-id="BR - Telecine Premium" tvg-name="TELECINE PREMIUM [SD]" tvg-logo="http://p6.vc/AZG" group-title="Canais | Telecine",TELECINE PREMIUM [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/579.ts
+#EXTINF:-1 tvg-id="BR - Telecine Premium" tvg-name="TELECINE PREMIUM [SD] LEG" tvg-logo="http://p6.vc/VWA" group-title="Canais | Legendados",TELECINE PREMIUM [SD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123501.ts
+#EXTINF:-1 tvg-id="BR - Telecine Touch" tvg-name="TELECINE TOUCH [FHD]" tvg-logo="http://p6.vc/AYT" group-title="Canais | Telecine",TELECINE TOUCH [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/566.ts
+#EXTINF:-1 tvg-id="BR - Telecine Touch" tvg-name="TELECINE TOUCH [FHD] LEG" tvg-logo="http://p6.vc/VWI" group-title="Canais | Legendados",TELECINE TOUCH [FHD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123551.ts
+#EXTINF:-1 tvg-id="BR - Telecine Touch" tvg-name="TELECINE TOUCH [FHD][H265]" tvg-logo="http://p6.vc/VSV" group-title="Canais | Telecine",TELECINE TOUCH [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30247.ts
+#EXTINF:-1 tvg-id="BR - Telecine Touch" tvg-name="TELECINE TOUCH [HD]" tvg-logo="http://p6.vc/AYY" group-title="Canais | Telecine",TELECINE TOUCH [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/571.ts
+#EXTINF:-1 tvg-id="BR - Telecine Touch" tvg-name="TELECINE TOUCH [HD] LEG" tvg-logo="http://p6.vc/VWB" group-title="Canais | Legendados",TELECINE TOUCH [HD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123502.ts
+#EXTINF:-1 tvg-id="BR - Telecine Touch" tvg-name="TELECINE TOUCH [SD]" tvg-logo="http://p6.vc/AZE" group-title="Canais | Telecine",TELECINE TOUCH [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/577.ts
+#EXTINF:-1 tvg-id="BR - Telecine Touch" tvg-name="TELECINE TOUCH [SD] LEG" tvg-logo="http://p6.vc/VWC" group-title="Canais | Legendados",TELECINE TOUCH [SD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123503.ts
+#EXTINF:-1 tvg-id="BR - TLC" tvg-name="TLC [FHD]" tvg-logo="http://p6.vc/APJ" group-title="Canais | Filmes e Séries",TLC [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/286.ts
+#EXTINF:-1 tvg-id="BR - TLC" tvg-name="TLC [FHD][H265]" tvg-logo="http://p6.vc/WHK" group-title="Canais | Filmes e Séries",TLC [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30229.ts
+#EXTINF:-1 tvg-id="BR - TLC" tvg-name="TLC [HD]" tvg-logo="http://p6.vc/AQJ" group-title="Canais | Filmes e Séries",TLC [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/314.ts
+#EXTINF:-1 tvg-id="BR - TLC" tvg-name="TLC [SD]" tvg-logo="http://p6.vc/ARG" group-title="Canais | Filmes e Séries",TLC [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/340.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT NOVELAS [HD]" tvg-logo="" group-title="Canais | Filmes e Séries",TNT NOVELAS [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/148422.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT NOVELAS [SD]" tvg-logo="http://p6.vc/AAKS" group-title="Canais | Filmes e Séries",TNT NOVELAS [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/148423.ts
+#EXTINF:-1 tvg-id="TNT.Séries.HD.br" tvg-name="TNT SERIES [FHD]" tvg-logo="http://p6.vc/APL" group-title="Canais | Filmes e Séries",TNT SERIES [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/288.ts
+#EXTINF:-1 tvg-id="TNT.Séries.HD.br" tvg-name="TNT SERIES [FHD][H265]" tvg-logo="http://p6.vc/WHH" group-title="Canais | Filmes e Séries",TNT SERIES [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30225.ts
+#EXTINF:-1 tvg-id="TNT.Séries.HD.br" tvg-name="TNT SERIES [HD]" tvg-logo="http://p6.vc/AQL" group-title="Canais | Filmes e Séries",TNT SERIES [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/316.ts
+#EXTINF:-1 tvg-id="BR - TNT Series" tvg-name="TNT SERIES [HD] LEG" tvg-logo="http://p6.vc/WIP" group-title="Canais | Legendados",TNT SERIES [HD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123514.ts
+#EXTINF:-1 tvg-id="BR - TNT Series" tvg-name="TNT SERIES [SD]" tvg-logo="http://p6.vc/ARI" group-title="Canais | Filmes e Séries",TNT SERIES [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/342.ts
+#EXTINF:-1 tvg-id="BR - TNT Series" tvg-name="TNT SERIES [SD] LEG" tvg-logo="http://p6.vc/WIQ" group-title="Canais | Legendados",TNT SERIES [SD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123515.ts
+#EXTINF:-1 tvg-id="TNT.HD.br" tvg-name="TNT [FHD]" tvg-logo="http://p6.vc/APK" group-title="Canais | Filmes e Séries",TNT [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/287.ts
+#EXTINF:-1 tvg-id="TNT.HD.br" tvg-name="TNT [FHD][H265]" tvg-logo="http://p6.vc/WHG" group-title="Canais | Filmes e Séries",TNT [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30224.ts
+#EXTINF:-1 tvg-id="TNT.HD.br" tvg-name="TNT [HD]" tvg-logo="http://p6.vc/AQK" group-title="Canais | Filmes e Séries",TNT [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/315.ts
+#EXTINF:-1 tvg-id="BR - TNT" tvg-name="TNT [HD] LEG" tvg-logo="http://p6.vc/WIF" group-title="Canais | Legendados",TNT [HD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123504.ts
+#EXTINF:-1 tvg-id="TNT.Séries.HD.br" tvg-name="TNT [SD]" tvg-logo="http://p6.vc/AQK" group-title="Canais | Filmes e Séries",TNT [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/341.ts
+#EXTINF:-1 tvg-id="BR - TNT" tvg-name="TNT [SD] LEG" tvg-logo="http://p6.vc/WIG" group-title="Canais | Legendados",TNT [SD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123505.ts
+#EXTINF:-1 tvg-id="BR - Tooncast" tvg-name="TOONCAST [FHD]" tvg-logo="http://p6.vc/WJF" group-title="Canais | Infantis",TOONCAST [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/48756.ts
+#EXTINF:-1 tvg-id="BR - Tooncast" tvg-name="TOONCAST [HD]" tvg-logo="http://p6.vc/WJE" group-title="Canais | Infantis",TOONCAST [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/48755.ts
+#EXTINF:-1 tvg-id="BR - Tooncast" tvg-name="TOONCAST [SD]" tvg-logo="http://p6.vc/WJE" group-title="Canais | Infantis",TOONCAST [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/160.ts
+#EXTINF:-1 tvg-id="Trace Brazuca" tvg-name="TRACE BRAZUCA [FHD]" tvg-logo="http://p6.vc/VAQ" group-title="Canais | Art & Music",TRACE BRAZUCA [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/50878.ts
+#EXTINF:-1 tvg-id="Trace Brazuca" tvg-name="TRACE BRAZUCA [HD]" tvg-logo="http://p6.vc/VAU" group-title="Canais | Art & Music",TRACE BRAZUCA [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/90690.ts
+#EXTINF:-1 tvg-id="Trace Brazuca" tvg-name="TRACE BRAZUCA [SD]" tvg-logo="http://p6.vc/VAT" group-title="Canais | Art & Music",TRACE BRAZUCA [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/90689.ts
+#EXTINF:-1 tvg-id="BR - Travel Box Brazil" tvg-name="TRAVEL BOX BRASIL [FHD]" tvg-logo="http://p6.vc/VMN" group-title="Canais | Variedades",TRAVEL BOX BRASIL [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/50882.ts
+#EXTINF:-1 tvg-id="BR - Travel Box Brazil" tvg-name="TRAVEL BOX BRASIL [FHD][H265]" tvg-logo="http://p6.vc/VMG" group-title="Canais | Variedades",TRAVEL BOX BRASIL [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30188.ts
+#EXTINF:-1 tvg-id="BR - Travel Box Brazil" tvg-name="TRAVEL BOX BRASIL [HD]" tvg-logo="http://p6.vc/VMK" group-title="Canais | Variedades",TRAVEL BOX BRASIL [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/50836.ts
+#EXTINF:-1 tvg-id="BR - Travel Box Brazil" tvg-name="TRAVEL BOX BRASIL [SD]" tvg-logo="http://p6.vc/VML" group-title="Canais | Variedades",TRAVEL BOX BRASIL [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/50837.ts
+#EXTINF:-1 tvg-id="Tru.TV.HD.br" tvg-name="TRUTV [FHD]" tvg-logo="http://p6.vc/APM" group-title="Canais | Filmes e Séries",TRUTV [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/289.ts
+#EXTINF:-1 tvg-id="BR - truTV" tvg-name="TRUTV [FHD][H265]" tvg-logo="http://p6.vc/WJR" group-title="Canais | Filmes e Séries",TRUTV [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30232.ts
+#EXTINF:-1 tvg-id="Tru.TV.HD.br" tvg-name="TRUTV [HD]" tvg-logo="http://p6.vc/AQQ" group-title="Canais | Filmes e Séries",TRUTV [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/323.ts
+#EXTINF:-1 tvg-id="Tru.TV.HD.br" tvg-name="TRUTV [SD]" tvg-logo="http://p6.vc/ARQ" group-title="Canais | Filmes e Séries",TRUTV [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/350.ts
+#EXTINF:-1 tvg-id="BR - TV Aparecida" tvg-name="TV APARECIDA [SD]" tvg-logo="http://p6.vc/VPS" group-title="Canais | Religiosos",TV APARECIDA [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/548.ts
+#EXTINF:-1 tvg-id="BR - TV Brasil" tvg-name="TV BRASIL [SD]" tvg-logo="http://p6.vc/AIG" group-title="Canais | Abertos",TV BRASIL [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/89.ts
+#EXTINF:-1 tvg-id="BR - TV Câmara" tvg-name="TV CAMARA [SD]" tvg-logo="http://p6.vc/AHR" group-title="Canais | Abertos",TV CAMARA [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/74.ts
+#EXTINF:-1 tvg-id="BR - Cultura" tvg-name="TV CULTURA [FHD]" tvg-logo="http://p6.vc/AGR" group-title="Canais | Abertos",TV CULTURA [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/47.ts
+#EXTINF:-1 tvg-id="BR - Cultura" tvg-name="TV CULTURA [FHD][H265]" tvg-logo="http://p6.vc/ONS" group-title="Canais | Abertos",TV CULTURA [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30183.ts
+#EXTINF:-1 tvg-id="BR - Cultura" tvg-name="TV CULTURA [HD]" tvg-logo="http://p6.vc/AHI" group-title="Canais | Abertos",TV CULTURA [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/64.ts
+#EXTINF:-1 tvg-id="BR - Cultura" tvg-name="TV CULTURA [SD]" tvg-logo="http://p6.vc/AIH" group-title="Canais | Abertos",TV CULTURA [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/90.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO [HD]" tvg-logo="http://p6.vc/ARF5" group-title="Canais | Abertos",TV DIARIO [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/199363.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO [SD]" tvg-logo="http://p6.vc/ARF6" group-title="Canais | Abertos",TV DIARIO [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/199364.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR MARINGA [HD]" tvg-logo="http://p6.vc/VPZ" group-title="Canais | Religiosos",TV EVANGELIZAR MARINGA [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/53337.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR [SD]" tvg-logo="http://p6.vc/VQH" group-title="Canais | Religiosos",TV EVANGELIZAR [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/109555.ts
+#EXTINF:-1 tvg-id="BR - TV Gazeta HD" tvg-name="TV GAZETA SP [FHD]" tvg-logo="http://p6.vc/AGT" group-title="Canais | Abertos",TV GAZETA SP [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/49.ts
+#EXTINF:-1 tvg-id="BR - TV Gazeta HD" tvg-name="TV GAZETA SP [FHD][H265]" tvg-logo="http://p6.vc/ONU" group-title="Canais | Abertos",TV GAZETA SP [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30189.ts
+#EXTINF:-1 tvg-id="BR - TV Gazeta HD" tvg-name="TV GAZETA SP [HD]" tvg-logo="http://p6.vc/AHA" group-title="Canais | Abertos",TV GAZETA SP [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/56.ts
+#EXTINF:-1 tvg-id="BR - TV Gazeta HD" tvg-name="TV GAZETA SP [SD]" tvg-logo="http://p6.vc/AHZ" group-title="Canais | Abertos",TV GAZETA SP [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/82.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV GIDEOES [HD]" tvg-logo="http://p6.vc/VQG" group-title="Canais | Religiosos",TV GIDEOES [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/69083.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV GOSPEL CARTOON [HD]" tvg-logo="http://p6.vc/WJG" group-title="Canais | Infantis",TV GOSPEL CARTOON [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/69084.ts
+#EXTINF:-1 tvg-id="BR - TV JUSTIÇA" tvg-name="TV JUSTICA [SD]" tvg-logo="http://p6.vc/AHQ" group-title="Canais | Abertos",TV JUSTICA [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/73.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV NSPORT 1 [HD]" tvg-logo="http://p6.vc/VKZ" group-title="Canais | Jogos & Eventos",TV NSPORT 1 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/69076.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV NSPORT 2 [HD]" tvg-logo="http://p6.vc/VLA" group-title="Canais | Jogos & Eventos",TV NSPORT 2 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/69077.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV NSPORT 3 [HD]" tvg-logo="http://p6.vc/VLB" group-title="Canais | Jogos & Eventos",TV NSPORT 3 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/69078.ts
+#EXTINF:-1 tvg-id="TV Pai Eterno" tvg-name="TV Pai Eterno" tvg-logo="http://p6.vc/VPT" group-title="Canais | Religiosos",TV Pai Eterno
+http://cdn33.cc:80/ribeirinho/gs1200/5342.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO [HD]" tvg-logo="http://p6.vc/VQE" group-title="Canais | Religiosos",TV PAI ETERNO [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/69080.ts
+#EXTINF:-1 tvg-id="BR - TV Rá Tim Bum! HD" tvg-name="TV RA-TIM-BUM [FHD]" tvg-logo="http://p6.vc/AJV" group-title="Canais | Infantis",TV RA-TIM-BUM [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/132.ts
+#EXTINF:-1 tvg-id="BR - TV Rá Tim Bum! HD" tvg-name="TV RA-TIM-BUM [HD]" tvg-logo="http://p6.vc/AKJ" group-title="Canais | Infantis",TV RA-TIM-BUM [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/148.ts
+#EXTINF:-1 tvg-id="BR - TV Rá Tim Bum! HD" tvg-name="TV RA-TIM-BUM [SD]" tvg-logo="http://p6.vc/AKW" group-title="Canais | Infantis",TV RA-TIM-BUM [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/161.ts
+#EXTINF:-1 tvg-id="RedeGospel.br" tvg-name="TV Rede Gospel" tvg-logo="http://p6.vc/VPX" group-title="Canais | Religiosos",TV Rede Gospel
+http://cdn33.cc:80/ribeirinho/gs1200/53333.ts
+#EXTINF:-1 tvg-id="BR - TV SENADO" tvg-name="TV SENADO [SD]" tvg-logo="http://p6.vc/AHP" group-title="Canais | Abertos",TV SENADO [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/72.ts
+#EXTINF:-1 tvg-id="Universal TV" tvg-name="TV Universal (IURD)" tvg-logo="http://p6.vc/VPW" group-title="Canais | Religiosos",TV Universal (IURD)
+http://cdn33.cc:80/ribeirinho/gs1200/53286.ts
+#EXTINF:-1 tvg-id="BR - TV Rá Tim Bum! HD" tvg-name="TV-RA-TIM-BUM [H265]" tvg-logo="http://p6.vc/WIZ" group-title="Canais | Infantis",TV-RA-TIM-BUM [H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30265.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 2 [BR] [FHD]" tvg-logo="http://p6.vc/XNA" group-title="Canais | Esportes",UFC Fight Pass 2 [BR] [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/170149.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 3 [BR] [HD]" tvg-logo="" group-title="Canais | Esportes",UFC Fight Pass 3 [BR] [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/204149.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass [BR] [FHD]" tvg-logo="http://p6.vc/XNA" group-title="Canais | Esportes",UFC Fight Pass [BR] [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/131818.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS [HD]" tvg-logo="http://p6.vc/XRK" group-title="Canais | Esportes",UFC FIGHT PASS [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/132343.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS [SD]" tvg-logo="http://p6.vc/XRL" group-title="Canais | Esportes",UFC FIGHT PASS [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/132344.ts
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA [4K]" tvg-logo="http://p6.vc/VMM" group-title="Canais | 4K",VIVA [4K]
+http://cdn33.cc:80/ribeirinho/gs1200/50867.ts
+#EXTINF:-1 tvg-id="BR - VIVA" tvg-name="VIVA [FHD]" tvg-logo="http://p6.vc/VMF" group-title="Canais | Variedades",VIVA [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/105.ts
+#EXTINF:-1 tvg-id="BR - VIVA" tvg-name="VIVA [FHD][H265]" tvg-logo="http://p6.vc/VMI" group-title="Canais | Religiosos",VIVA [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30298.ts
+#EXTINF:-1 tvg-id="BR - VIVA" tvg-name="VIVA [HD]" tvg-logo="http://p6.vc/AJD" group-title="Canais | Variedades",VIVA [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/114.ts
+#EXTINF:-1 tvg-id="BR - VIVA" tvg-name="VIVA [SD]" tvg-logo="http://p6.vc/AJM" group-title="Canais | Variedades",VIVA [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/123.ts
+#EXTINF:-1 tvg-id="Warner.HD.br" tvg-name="WARNER CHANNEL [FHD]" tvg-logo="http://p6.vc/APT" group-title="Canais | Filmes e Séries",WARNER CHANNEL [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/297.ts
+#EXTINF:-1 tvg-id="Warner.HD.br" tvg-name="WARNER CHANNEL [FHD][H265]" tvg-logo="http://p6.vc/WJP" group-title="Canais | Filmes e Séries",WARNER CHANNEL [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30226.ts
+#EXTINF:-1 tvg-id="Warner.HD.br" tvg-name="WARNER CHANNEL [HD]" tvg-logo="http://p6.vc/AQN" group-title="Canais | Filmes e Séries",WARNER CHANNEL [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/319.ts
+#EXTINF:-1 tvg-id="BR - Warner Channel" tvg-name="WARNER CHANNEL [SD]" tvg-logo="http://p6.vc/ARL" group-title="Canais | Filmes e Séries",WARNER CHANNEL [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/345.ts
+#EXTINF:-1 tvg-id="BR - Warner Channel" tvg-name="WARNER [HD] LEG" tvg-logo="http://p6.vc/eLq" group-title="Canais | Legendados",WARNER [HD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123516.ts
+#EXTINF:-1 tvg-id="BR - Warner Channel" tvg-name="WARNER [SD] LEG" tvg-logo="http://p6.vc/eLq" group-title="Canais | Legendados",WARNER [SD] LEG
+http://cdn33.cc:80/ribeirinho/gs1200/123517.ts
+#EXTINF:-1 tvg-id="BR - WooHoo" tvg-name="WOOHOO [FHD]" tvg-logo="http://p6.vc/AJW" group-title="Canais | Art & Music",WOOHOO [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/133.ts
+#EXTINF:-1 tvg-id="BR - WooHoo" tvg-name="WOOHOO [FHD][H265]" tvg-logo="http://p6.vc/VAN" group-title="Canais | Art & Music",WOOHOO [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/30174.ts
+#EXTINF:-1 tvg-id="BR - WooHoo" tvg-name="WOOHOO [HD]" tvg-logo="http://p6.vc/AFN" group-title="Canais | Art & Music",WOOHOO [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/14.ts
+#EXTINF:-1 tvg-id="BR - WooHoo" tvg-name="WOOHOO [SD]" tvg-logo="http://p6.vc/AFG" group-title="Canais | Art & Music",WOOHOO [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/7.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 1 [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos [24HR]",XXX ADULTO 1 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/227960.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 10 [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos [24HR]",XXX ADULTO 10 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/227948.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 2 [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos [24HR]",XXX ADULTO 2 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/227968.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 3 [HD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos [24HR]",XXX ADULTO 3 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/227964.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 4 [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos [24HR]",XXX ADULTO 4 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/227962.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 5 [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos [24HR]",XXX ADULTO 5 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/227958.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 6 [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos [24HR]",XXX ADULTO 6 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/227956.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 7 [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos [24HR]",XXX ADULTO 7 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/227954.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 8 [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos [24HR]",XXX ADULTO 8 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/227952.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 9 [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos [24HR]",XXX ADULTO 9 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/227950.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos [24HR]",XXX ADULTO [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/227928.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX BRASILEIRINHAS: AGORA E HORA DAS PODEROSAS [HD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos [24HR]",XXX BRASILEIRINHAS: AGORA E HORA DAS PODEROSAS [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/227942.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX BRASILEIRINHAS: AMIGAS DA MINHA IRMA  [HD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos [24HR]",XXX BRASILEIRINHAS: AMIGAS DA MINHA IRMA  [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/227944.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX BRASILEIRINHAS: ASSIM VC ME MATA [HD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos [24HR]",XXX BRASILEIRINHAS: ASSIM VC ME MATA [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/227934.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX BRASILEIRINHAS: BABANDO DE TESAO [HD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos [24HR]",XXX BRASILEIRINHAS: BABANDO DE TESAO [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/227930.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX BRASILEIRINHAS: BIG MACK [HD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos [24HR]",XXX BRASILEIRINHAS: BIG MACK [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/227938.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX BRASILEIRINHAS: CLUBE PRIVE [HD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos [24HR]",XXX BRASILEIRINHAS: CLUBE PRIVE [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/227946.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX BRASILEIRINHAS: DEPOIS DOS 40 [HD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos [24HR]",XXX BRASILEIRINHAS: DEPOIS DOS 40 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/227936.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX BRASILEIRINHAS: ESTRELAS EM BUSCA DO PRAZER [HD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos [24HR]",XXX BRASILEIRINHAS: ESTRELAS EM BUSCA DO PRAZER [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/227940.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX BRASILEIRINHAS: FAZENDO SACANAGEM [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos [24HR]",XXX BRASILEIRINHAS: FAZENDO SACANAGEM [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/227932.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX PASSION  [HD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos [24HR]",XXX PASSION  [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/227966.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD2 +1 [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Alba XXX HD2 +1 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228026.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD2 +2 [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Alba XXX HD2 +2 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228028.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD2 [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Alba XXX HD2 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228024.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD3 [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Alba XXX HD3 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228030.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD4 [No video stream found]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Alba XXX HD4 [No video stream found]
+http://cdn33.cc:80/ribeirinho/gs1200/228032.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD5 [HD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Alba XXX HD5 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/228034.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD6 [HD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Alba XXX HD6 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/228036.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD7 [HD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Alba XXX HD7 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/228038.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD8 [HD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Alba XXX HD8 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/228040.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Anal 4K [FHD][H265]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Anal 4K [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/228042.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Analized [HD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Analized [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/228044.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ATK EXOTICS [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: ATK EXOTICS [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228046.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ATK Galleria [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: ATK Galleria [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228048.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ATK Hairy [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: ATK Hairy [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228050.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: babes [FHD][H265]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: babes [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/228052.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Balkan Erotic [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Balkan Erotic [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228054.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BANANA FEVER [FHD][H265]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: BANANA FEVER [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/228056.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Bang U [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Bang U [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228058.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Bangerz [HD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Bangerz [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/228060.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Barely Legal TV [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Barely Legal TV [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228062.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Beate Uhse TV [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Beate Uhse TV [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228064.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Blue Hustler [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Blue Hustler [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228066.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Brazzers +1 [FHD][H265]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Brazzers +1 [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/228070.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Brazzers +2 [FHD][H265]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Brazzers +2 [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/228072.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Brazzers +4 [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Brazzers +4 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228074.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Brazzers TV Europe [HD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Brazzers TV Europe [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/228076.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Brazzers [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Brazzers [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228068.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BRAZZERZ +3 [FHD][H265]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: BRAZZERZ +3 [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/228078.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Cento X Cento TV [HD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Cento X Cento TV [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/228080.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Cherry Pimps [FHD][H265]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Cherry Pimps [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/228082.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: CUM LOUDER [FHD][H265]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: CUM LOUDER [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/228084.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: danejones [FHD][H265]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: danejones [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/228086.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Darling TV2 [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Darling TV2 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228088.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DDF Network [FHD][H265]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: DDF Network [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/228090.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Desire [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Desire [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228092.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Dorcel TV [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Dorcel TV [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228094.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Dorcel XXX [HD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Dorcel XXX [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/228096.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Dream Porn [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Dream Porn [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228098.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Dusk [FHD][H265]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Dusk [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/228100.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Emanuelle [FHD][H265]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Emanuelle [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/228102.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: erotic 2 [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: erotic 2 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228106.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: erotic 3 [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: erotic 3 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228108.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: erotic 4 [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: erotic 4 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228110.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: erotic 5 [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: erotic 5 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228112.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: erotic 6 [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: erotic 6 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228114.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: erotic 7 [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: erotic 7 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228116.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: erotic 8 [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: erotic 8 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228118.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Erotic Spice [FHD][H265]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Erotic Spice [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/228120.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: erotic [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: erotic [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228104.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Erox [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Erox [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228122.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Eroxxx [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Eroxxx [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228124.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EVIL ANGEL +1 [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: EVIL ANGEL +1 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228127.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Evil Angel TV [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Evil Angel TV [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228130.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EXPO EROX [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: EXPO EROX [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228133.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Extasy TV [FHD][H265]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Extasy TV [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/228136.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EXTREME [HD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: EXTREME [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/228139.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Exxxotica [HD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Exxxotica [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/228142.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Fantazzy TV [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Fantazzy TV [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228145.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FTV Midnight [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: FTV Midnight [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228148.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: GAY MEN [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: GAY MEN [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228151.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: GAY TV [HD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: GAY TV [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/228154.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HITZEFREI [FHD][H265]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: HITZEFREI [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/228157.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Horny Hostel [FHD][H265]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Horny Hostel [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/228160.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT 1+ [FHD][H265]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: HOT 1+ [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/228166.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT Gold [FHD][H265]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: HOT Gold [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/228169.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT GUYS FUCK [FHD][H265]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: HOT GUYS FUCK [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/228172.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT XXL [HD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: HOT XXL [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/228180.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: HOT [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228163.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Hustler HD [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Hustler HD [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228183.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Hustler TV RED [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Hustler TV RED [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228186.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: IPPA +1 [HD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: IPPA +1 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/228192.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: LEO TV Gold [FHD][H265]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: LEO TV Gold [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/228198.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: LEO TV [FHD][H265]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: LEO TV [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/228195.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Meiden Van Holland [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Meiden Van Holland [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228201.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MI Interracial [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: MI Interracial [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228204.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Miami TV Colombia [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Miami TV Colombia [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228210.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Miami TV International [HD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Miami TV International [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/228213.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Miami TV Mexico [HD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Miami TV Mexico [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/228216.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Miami TV [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Miami TV [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228207.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MILF TV [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: MILF TV [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228219.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MILFED [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: MILFED [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228222.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MOFOS [FHD][H265]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: MOFOS [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/228225.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MOM TEACH SEX [FHD][H265]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: MOM TEACH SEX [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/228228.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: NAKED NEWS [Desconhecido]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: NAKED NEWS [Desconhecido]
+http://cdn33.cc:80/ribeirinho/gs1200/228231.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: NET XXL [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: NET XXL [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228237.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Nuart [FHD][H265]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Nuart [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/228240.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Nubile Films [FHD][H265]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Nubile Films [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/228243.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: O.La.La [FHD][H265]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: O.La.La [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/228246.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Passie XXX Milf Shake [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Passie XXX Milf Shake [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228252.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Passie XXX [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Passie XXX [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228249.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Passion XXX +1 [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Passion XXX +1 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228258.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Passion XXX [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Passion XXX [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228255.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE Gold [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: PENTHOUSE Gold [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228261.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE Passion [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: PENTHOUSE Passion [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228264.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE REALITY TV [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: PENTHOUSE REALITY TV [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228267.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Perv Mom [FHD][H265]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Perv Mom [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/228270.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINKO CLUB [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: PINKO CLUB [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228273.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY Brasil [FHD][H265]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: PLAYBOY Brasil [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/228279.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY Latino [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: PLAYBOY Latino [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228282.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY USA [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: PLAYBOY USA [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228285.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY [FHD][H265]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: PLAYBOY [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/228276.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYHOUSE [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: PLAYHOUSE [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228288.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Private TV [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Private TV [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228291.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Reality Kings TV +1 [FHD][H265]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Reality Kings TV +1 [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/228297.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Reality Kings TV [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Reality Kings TV [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228294.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Red Lips [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Red Lips [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228300.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: REDLIGHT [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: REDLIGHT [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228303.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Russkaya Noch [HD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Russkaya Noch [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/228306.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Secret Circle [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Secret Circle [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228309.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Sexart [HD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Sexart [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/228312.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SeXation [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: SeXation [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228315.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Sexy HOT [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Sexy HOT [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228318.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SINEMATICA [FHD][H265]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: SINEMATICA [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/228321.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Sugar Street [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Sugar Street [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228324.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SuperOne [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: SuperOne [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228327.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: TRANS ANGELS PornBox [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: TRANS ANGELS PornBox [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228333.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: TRANS ANGELS [HD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: TRANS ANGELS [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/228330.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VENUS [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: VENUS [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228339.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VISIT-X TV [HD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: VISIT-X TV [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/228342.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Vivid Red [HD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Vivid Red [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/228345.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Vivid TV [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Vivid TV [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228351.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VIXEN [FHD][H265]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: VIXEN [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/228354.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: WHITE BOXXX [FHD][H265]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: WHITE BOXXX [FHD][H265]
+http://cdn33.cc:80/ribeirinho/gs1200/228357.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: X Bizarre [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: X Bizarre [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228360.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: X Bunga Bunga [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: X Bunga Bunga [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228363.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XXL [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: XXL [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228366.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XY Max [SD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: XY Max [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/228369.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XY Mix [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: XY Mix [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228372.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XY Plus [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: XY Plus [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228375.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Щёлк [FHD]" tvg-logo="http://p6.vc/ACU" group-title="Canais | Adultos",XXX: Щёлк [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/228378.ts
+#EXTINF:-1 tvg-id="BR - Zoomoo" tvg-name="ZOOMOO [FHD]" tvg-logo="http://p6.vc/WJI" group-title="Canais | Infantis",ZOOMOO [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/108988.ts
+#EXTINF:-1 tvg-id="BR - Zoomoo" tvg-name="ZOOMOO [HD]" tvg-logo="http://p6.vc/WJH" group-title="Canais | Infantis",ZOOMOO [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/108987.ts
+#EXTINF:-1 tvg-id="BR - Zoomoo" tvg-name="ZOOMOO [SD]" tvg-logo="http://p6.vc/WIW" group-title="Canais | Infantis",ZOOMOO [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/163.ts
+#EXTINF:-1 tvg-id="BR - Loading" tvg-name="LOADING [FHD]" tvg-logo="http://p6.vc/VNO" group-title="Canais | Variedades",LOADING [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/58245.ts
+#EXTINF:-1 tvg-id="BR - Loading" tvg-name="LOADING [HD]" tvg-logo="http://p6.vc/VNQ" group-title="Canais | Variedades",LOADING [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/58247.ts
+#EXTINF:-1 tvg-id="BR - Loading" tvg-name="LOADING [SD]" tvg-logo="http://p6.vc/VNP" group-title="Canais | Variedades",LOADING [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/58246.ts
+#EXTINF:-1 tvg-id="" tvg-name="Luta Exclusivas [FHD]" tvg-logo="" group-title="Canais | Jogos & Eventos",Luta Exclusivas [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/139221.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 1 [ALTER] [HD]" tvg-logo="http://p6.vc/BIO4" group-title="Canais | HBO Max [Champions League]",MAX 1 [ALTER] [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/199969.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 1 [FHD]" tvg-logo="http://p6.vc/BJU8" group-title="Canais | HBO Max [Champions League]",MAX 1 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/195782.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 1 [HD]" tvg-logo="http://p6.vc/OOF" group-title="Canais | HBO Max [Champions League]",MAX 1 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/92846.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 1 [HD]" tvg-logo="http://p6.vc/BHZ2" group-title="Canais | HBO Max [Champions League]",MAX 1 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/195788.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 1 [SD]" tvg-logo="http://p6.vc/BHZ8" group-title="Canais | HBO Max [Champions League]",MAX 1 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/195794.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 2 [ALTER] [HD]" tvg-logo="http://p6.vc/BIO3" group-title="Canais | HBO Max [Champions League]",MAX 2 [ALTER] [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/199968.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 2 [FHD]" tvg-logo="http://p6.vc/BJU9" group-title="Canais | HBO Max [Champions League]",MAX 2 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/195783.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 2 [HD]" tvg-logo="http://p6.vc/BHZ3" group-title="Canais | HBO Max [Champions League]",MAX 2 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/195789.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 2 [SD]" tvg-logo="http://p6.vc/BHZ9" group-title="Canais | HBO Max [Champions League]",MAX 2 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/195795.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 3 [ALTER] [HD]" tvg-logo="http://p6.vc/BIO2" group-title="Canais | HBO Max [Champions League]",MAX 3 [ALTER] [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/199967.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 3 [FHD]" tvg-logo="http://p6.vc/BJV0" group-title="Canais | HBO Max [Champions League]",MAX 3 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/195784.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 3 [HD]" tvg-logo="http://p6.vc/BHZ4" group-title="Canais | HBO Max [Champions League]",MAX 3 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/195790.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 3 [SD]" tvg-logo="http://p6.vc/BIA0" group-title="Canais | HBO Max [Champions League]",MAX 3 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/195796.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 4 [ALTER] [HD]" tvg-logo="http://p6.vc/BIO1" group-title="Canais | HBO Max [Champions League]",MAX 4 [ALTER] [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/199966.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 4 [FHD]" tvg-logo="http://p6.vc/BJV1" group-title="Canais | HBO Max [Champions League]",MAX 4 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/195785.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 4 [HD]" tvg-logo="http://p6.vc/BHZ5" group-title="Canais | HBO Max [Champions League]",MAX 4 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/195791.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 4 [SD]" tvg-logo="" group-title="Canais | HBO Max [Champions League]",MAX 4 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/195797.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 5 [ALTER] [HD]" tvg-logo="http://p6.vc/BIO0" group-title="Canais | HBO Max [Champions League]",MAX 5 [ALTER] [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/199965.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 5 [FHD]" tvg-logo="http://p6.vc/BJV2" group-title="Canais | HBO Max [Champions League]",MAX 5 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/195786.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 5 [HD]" tvg-logo="http://p6.vc/BHZ6" group-title="Canais | HBO Max [Champions League]",MAX 5 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/195792.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 5 [SD]" tvg-logo="" group-title="Canais | HBO Max [Champions League]",MAX 5 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/195798.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 6 [ALTER] [HD]" tvg-logo="http://p6.vc/BIN9" group-title="Canais | HBO Max [Champions League]",MAX 6 [ALTER] [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/199964.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 6 [FHD]" tvg-logo="http://p6.vc/BJV3" group-title="Canais | HBO Max [Champions League]",MAX 6 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/195787.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 6 [HD]" tvg-logo="http://p6.vc/BHZ7" group-title="Canais | HBO Max [Champions League]",MAX 6 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/195793.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 6 [SD]" tvg-logo="" group-title="Canais | HBO Max [Champions League]",MAX 6 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/195799.ts
